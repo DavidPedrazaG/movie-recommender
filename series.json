@@ -1,0 +1,222 @@
+[
+  {
+    "titulo": "Breaking Bad",
+    "genero": "Drama / Crimen",
+    "año": 2008,
+    "ritmo": "moderado",
+    "emociones": ["tensión", "adrenalina", "angustia", "asombro"],
+    "descripcion": "Un profesor de química con cáncer terminal comienza a fabricar metanfetamina para asegurar el futuro de su familia.",
+    "creador": "Vince Gilligan",
+    "temporadas": 5,
+    "episodios": 62
+  },
+  {
+    "titulo": "Better Call Saul",
+    "genero": "Drama / Crimen",
+    "año": 2015,
+    "ritmo": "lento",
+    "emociones": ["intriga", "empatía", "melancolía", "tensión"],
+    "descripcion": "La transformación de Jimmy McGill en el abogado Saul Goodman antes de los eventos de Breaking Bad.",
+    "creador": "Vince Gilligan y Peter Gould",
+    "temporadas": 6,
+    "episodios": 63
+  },
+  {
+    "titulo": "Dark",
+    "genero": "Ciencia ficción / Misterio",
+    "año": 2017,
+    "ritmo": "lento",
+    "emociones": ["intriga", "confusión", "angustia", "asombro"],
+    "descripcion": "La desaparición de un niño en un pueblo alemán revela secretos familiares y viajes en el tiempo.",
+    "creador": "Baran bo Odar y Jantje Friese",
+    "temporadas": 3,
+    "episodios": 26
+  },
+  {
+    "titulo": "Stranger Things",
+    "genero": "Ciencia ficción / Aventura",
+    "año": 2016,
+    "ritmo": "rápido",
+    "emociones": ["nostalgia", "miedo", "aventura", "amistad"],
+    "descripcion": "Un grupo de amigos enfrenta fenómenos sobrenaturales vinculados a una dimensión oscura llamada Upside Down.",
+    "creador": "The Duffer Brothers",
+    "temporadas": 5,
+    "episodios": 42
+  },
+  {
+    "titulo": "The Last of Us",
+    "genero": "Drama / Postapocalíptico",
+    "año": 2023,
+    "ritmo": "moderado",
+    "emociones": ["tristeza", "esperanza", "tensión", "amor"],
+    "descripcion": "En un mundo devastado por una infección, un hombre escolta a una adolescente que podría cambiar el destino de la humanidad.",
+    "creador": "Craig Mazin y Neil Druckmann",
+    "temporadas": 2,
+    "episodios": 16
+  },
+  {
+    "titulo": "Chernobyl",
+    "genero": "Drama histórico",
+    "año": 2019,
+    "ritmo": "moderado",
+    "emociones": ["angustia", "impacto", "miedo", "reflexión"],
+    "descripcion": "Miniserie sobre el desastre nuclear de Chernobyl y la lucha de científicos y trabajadores para contenerlo.",
+    "creador": "Craig Mazin",
+    "temporadas": 1,
+    "episodios": 5
+  },
+  {
+    "titulo": "The Office",
+    "genero": "Comedia",
+    "año": 2005,
+    "ritmo": "moderado",
+    "emociones": ["humor", "ternura", "comodidad", "alegría"],
+    "descripcion": "Un falso documental sigue el día a día de los empleados de una oficina de papel en Scranton.",
+    "creador": "Greg Daniels",
+    "temporadas": 9,
+    "episodios": 201
+  },
+  {
+    "titulo": "Ted Lasso",
+    "genero": "Comedia / Drama",
+    "año": 2020,
+    "ritmo": "moderado",
+    "emociones": ["optimismo", "alegría", "inspiración", "empatía"],
+    "descripcion": "Un entrenador de fútbol americano dirige un equipo de fútbol inglés sin experiencia previa en el deporte.",
+    "creador": "Bill Lawrence, Jason Sudeikis y Brendan Hunt",
+    "temporadas": 3,
+    "episodios": 34
+  },
+  {
+    "titulo": "Fleabag",
+    "genero": "Comedia / Drama",
+    "año": 2016,
+    "ritmo": "rápido",
+    "emociones": ["humor negro", "melancolía", "catarsis", "intimidad"],
+    "descripcion": "Una mujer londinense atraviesa pérdidas, relaciones complejas y caos emocional con una voz irreverente.",
+    "creador": "Phoebe Waller-Bridge",
+    "temporadas": 2,
+    "episodios": 12
+  },
+  {
+    "titulo": "Sherlock",
+    "genero": "Misterio / Crimen",
+    "año": 2010,
+    "ritmo": "rápido",
+    "emociones": ["intriga", "asombro", "tensión", "entretenimiento"],
+    "descripcion": "Una versión moderna de Sherlock Holmes y John Watson resolviendo casos complejos en Londres.",
+    "creador": "Steven Moffat y Mark Gatiss",
+    "temporadas": 4,
+    "episodios": 13
+  },
+  {
+    "titulo": "Mindhunter",
+    "genero": "Thriller / Crimen",
+    "año": 2017,
+    "ritmo": "lento",
+    "emociones": ["intriga", "perturbación", "tensión", "curiosidad"],
+    "descripcion": "Agentes del FBI entrevistan asesinos seriales para comprender su psicología y atrapar criminales.",
+    "creador": "Joe Penhall",
+    "temporadas": 2,
+    "episodios": 19
+  },
+  {
+    "titulo": "True Detective",
+    "genero": "Drama / Misterio",
+    "año": 2014,
+    "ritmo": "lento",
+    "emociones": ["oscuridad", "intriga", "tensión", "reflexión"],
+    "descripcion": "Antología policial donde detectives enfrentan crímenes complejos y sus propios demonios.",
+    "creador": "Nic Pizzolatto",
+    "temporadas": 4,
+    "episodios": 30
+  },
+  {
+    "titulo": "Succession",
+    "genero": "Drama",
+    "año": 2018,
+    "ritmo": "moderado",
+    "emociones": ["tensión", "ironía", "ambición", "cinismo"],
+    "descripcion": "Una poderosa familia dueña de un imperio mediático lucha por el control de la compañía.",
+    "creador": "Jesse Armstrong",
+    "temporadas": 4,
+    "episodios": 39
+  },
+  {
+    "titulo": "The Crown",
+    "genero": "Drama histórico",
+    "año": 2016,
+    "ritmo": "moderado",
+    "emociones": ["melancolía", "elegancia", "tensión", "nostalgia"],
+    "descripcion": "Crónica dramatizada del reinado de Isabel II y las tensiones personales y políticas de la monarquía británica.",
+    "creador": "Peter Morgan",
+    "temporadas": 6,
+    "episodios": 60
+  },
+  {
+    "titulo": "Arcane",
+    "genero": "Animación / Fantasía",
+    "año": 2021,
+    "ritmo": "rápido",
+    "emociones": ["asombro", "tristeza", "adrenalina", "emotividad"],
+    "descripcion": "Dos hermanas quedan en lados opuestos de un conflicto entre una ciudad utópica y su submundo oprimido.",
+    "creador": "Christian Linke y Alex Yee",
+    "temporadas": 2,
+    "episodios": 18
+  },
+  {
+    "titulo": "The Bear",
+    "genero": "Drama / Comedia",
+    "año": 2022,
+    "ritmo": "rápido",
+    "emociones": ["ansiedad", "esperanza", "empatía", "catarsis"],
+    "descripcion": "Un joven chef de alta cocina regresa a Chicago para salvar el pequeño restaurante familiar.",
+    "creador": "Christopher Storer",
+    "temporadas": 4,
+    "episodios": 38
+  },
+  {
+    "titulo": "Black Mirror",
+    "genero": "Ciencia ficción / Thriller",
+    "año": 2011,
+    "ritmo": "moderado",
+    "emociones": ["perturbación", "asombro", "miedo", "reflexión"],
+    "descripcion": "Antología de historias independientes que exploran el lado oscuro de la tecnología y la sociedad.",
+    "creador": "Charlie Brooker",
+    "temporadas": 6,
+    "episodios": 27
+  },
+  {
+    "titulo": "Severance",
+    "genero": "Ciencia ficción / Thriller",
+    "año": 2022,
+    "ritmo": "lento",
+    "emociones": ["intriga", "tensión", "extrañeza", "asombro"],
+    "descripcion": "Empleados de una empresa separan quirúrgicamente sus recuerdos laborales de su vida personal.",
+    "creador": "Dan Erickson",
+    "temporadas": 2,
+    "episodios": 19
+  },
+  {
+    "titulo": "BoJack Horseman",
+    "genero": "Animación / Drama",
+    "año": 2014,
+    "ritmo": "moderado",
+    "emociones": ["humor", "tristeza", "reflexión", "melancolía"],
+    "descripcion": "Una exestrella de sitcom animada enfrenta depresión, adicciones y la búsqueda de sentido.",
+    "creador": "Raphael Bob-Waksberg",
+    "temporadas": 6,
+    "episodios": 77
+  },
+  {
+    "titulo": "Band of Brothers",
+    "genero": "Drama bélico",
+    "año": 2001,
+    "ritmo": "moderado",
+    "emociones": ["tensión", "heroísmo", "tristeza", "camaradería"],
+    "descripcion": "Miniserie que sigue a la Compañía Easy durante la Segunda Guerra Mundial desde el entrenamiento hasta el fin del conflicto.",
+    "creador": "Tom Hanks y Steven Spielberg",
+    "temporadas": 1,
+    "episodios": 10
+  }
+]
