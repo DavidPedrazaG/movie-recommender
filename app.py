@@ -10,7 +10,7 @@ from chain import recomendar
 # CONFIGURACIÓN DE PÁGINA
 # ─────────────────────────────────────────────
 st.set_page_config(
-    page_title="🎬 CineMatch IA",
+    page_title="CineMatch IA",
     page_icon="🎬",
     layout="wide"
 )
@@ -80,7 +80,7 @@ st.markdown("""
 # ─────────────────────────────────────────────
 # HEADER
 # ─────────────────────────────────────────────
-st.markdown('<h1 class="titulo-principal">CineMatch IA</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="titulo-principal">🎬 CineMatch IA</h1>', unsafe_allow_html=True)
 st.markdown('<p class="subtitulo">Dime cómo te sientes y te recomiendo la película o serie perfecta</p>', unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────
