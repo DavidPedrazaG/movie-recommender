@@ -13,10 +13,6 @@ import os
 import json
 import shutil
 import hashlib
-import logging
-
-
-logger = logging.getLogger(__name__)
 
 # ─────────────────────────────────────────────
 # CONFIGURACIÓN
@@ -119,16 +115,10 @@ def create_vector_db():
     force_reindex = os.getenv("FORCE_REINDEX", "0") == "1"
 
     if _indice_actualizado():
-        logger.info("La base vectorial FAISS ya está actualizada. No se recrea.")
         return
 
-    # En despliegues (p. ej. Streamlit Cloud) usamos el índice FAISS ya versionado
-    # para evitar re-embeddings masivos al iniciar.
     if _indice_faiss_existe() and not force_reindex:
-        logger.info("Índice FAISS existente detectado. Se reutiliza sin recrear.")
         return
-
-    logger.info("Creando/actualizando base vectorial FAISS...")
 
     docs = []
     docs.extend(_cargar_catalogo(PELICULAS_PATH, "pelicula"))
@@ -140,10 +130,8 @@ def create_vector_db():
     if os.path.exists(FAISS_PATH):
         shutil.rmtree(FAISS_PATH)
 
-    # Embeddings con Gemini (igual que el profe)
     embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001")
 
-    # ✅ FAISS en lugar de ChromaDB (retriever diferente al del profe)
     vectorstore = FAISS.from_documents(docs, embeddings)
     vectorstore.save_local(FAISS_PATH)
 
@@ -151,27 +139,16 @@ def create_vector_db():
     with open(INDEX_META_PATH, "w", encoding="utf-8") as f:
         json.dump(_firma_catalogo(), f, ensure_ascii=False, indent=2)
 
-    logger.info("Base vectorial FAISS creada/actualizada.")
-
 
 # ─────────────────────────────────────────────
 # 2. CARGAR FAISS Y CREAR RETRIEVER
 # ─────────────────────────────────────────────
-def load_vectorstore(emit=None):
-    if callable(emit):
-        emit("Cargando índice FAISS desde disco...")
-
-    if not os.path.exists(FAISS_PATH):
-        logger.warning("No existe FAISS_PATH, se intentará crear el índice.")
-        if callable(emit):
-            emit("No existe el índice local. Se intentará crearlo.")
+def load_vectorstore():
+    if not _indice_actualizado():
         create_vector_db()
 
     embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001")
 
-    logger.info("Cargando vectorstore FAISS desde %s", FAISS_PATH)
-    if callable(emit):
-        emit("Índice FAISS cargado correctamente.")
     return FAISS.load_local(
         FAISS_PATH,
         embeddings,
@@ -182,14 +159,10 @@ def load_vectorstore(emit=None):
 # ─────────────────────────────────────────────
 # 3. BUSCAR PELÍCULAS SEGÚN CRITERIOS
 # ─────────────────────────────────────────────
-def buscar_contenido(criterios: str, tipo: str = "ambas", emit=None) -> list:
+def buscar_contenido(criterios: str, tipo: str = "ambas") -> list:
     """Busca en FAISS el contenido más relevante según criterios y tipo."""
-    if callable(emit):
-        emit(f"Buscando contenido para tipo={tipo}...")
+    vectorstore = load_vectorstore()
 
-    vectorstore = load_vectorstore(emit=emit)
-
-    logger.info("Buscando contenido con tipo=%s", tipo)
     docs = vectorstore.max_marginal_relevance_search(criterios, k=12, fetch_k=24)
 
     if tipo in {"pelicula", "serie"}:
@@ -198,7 +171,4 @@ def buscar_contenido(criterios: str, tipo: str = "ambas", emit=None) -> list:
         docs_filtrados = docs
 
     docs_finales = docs_filtrados[:3] if docs_filtrados else docs[:3]
-    logger.info("Contenido encontrado: %s documentos", len(docs_finales))
-    if callable(emit):
-        emit(f"Se encontraron {len(docs_finales)} opciones relevantes.")
     return [doc.page_content for doc in docs_finales]

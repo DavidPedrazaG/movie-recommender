@@ -4,7 +4,12 @@
     "genero": "Drama / Crimen",
     "año": 2008,
     "ritmo": "moderado",
-    "emociones": ["tensión", "adrenalina", "angustia", "asombro"],
+    "emociones": [
+      "tensión",
+      "adrenalina",
+      "angustia",
+      "asombro"
+    ],
     "descripcion": "Un profesor de química con cáncer terminal comienza a fabricar metanfetamina para asegurar el futuro de su familia.",
     "creador": "Vince Gilligan",
     "temporadas": 5,
@@ -15,7 +20,12 @@
     "genero": "Drama / Crimen",
     "año": 2015,
     "ritmo": "lento",
-    "emociones": ["intriga", "empatía", "melancolía", "tensión"],
+    "emociones": [
+      "intriga",
+      "empatía",
+      "melancolía",
+      "tensión"
+    ],
     "descripcion": "La transformación de Jimmy McGill en el abogado Saul Goodman antes de los eventos de Breaking Bad.",
     "creador": "Vince Gilligan y Peter Gould",
     "temporadas": 6,
@@ -26,7 +36,12 @@
     "genero": "Ciencia ficción / Misterio",
     "año": 2017,
     "ritmo": "lento",
-    "emociones": ["intriga", "confusión", "angustia", "asombro"],
+    "emociones": [
+      "intriga",
+      "confusión",
+      "angustia",
+      "asombro"
+    ],
     "descripcion": "La desaparición de un niño en un pueblo alemán revela secretos familiares y viajes en el tiempo.",
     "creador": "Baran bo Odar y Jantje Friese",
     "temporadas": 3,
@@ -37,7 +52,12 @@
     "genero": "Ciencia ficción / Aventura",
     "año": 2016,
     "ritmo": "rápido",
-    "emociones": ["nostalgia", "miedo", "aventura", "amistad"],
+    "emociones": [
+      "nostalgia",
+      "miedo",
+      "aventura",
+      "amistad"
+    ],
     "descripcion": "Un grupo de amigos enfrenta fenómenos sobrenaturales vinculados a una dimensión oscura llamada Upside Down.",
     "creador": "The Duffer Brothers",
     "temporadas": 5,
@@ -48,7 +68,12 @@
     "genero": "Drama / Postapocalíptico",
     "año": 2023,
     "ritmo": "moderado",
-    "emociones": ["tristeza", "esperanza", "tensión", "amor"],
+    "emociones": [
+      "tristeza",
+      "esperanza",
+      "tensión",
+      "amor"
+    ],
     "descripcion": "En un mundo devastado por una infección, un hombre escolta a una adolescente que podría cambiar el destino de la humanidad.",
     "creador": "Craig Mazin y Neil Druckmann",
     "temporadas": 2,
@@ -59,7 +84,12 @@
     "genero": "Drama histórico",
     "año": 2019,
     "ritmo": "moderado",
-    "emociones": ["angustia", "impacto", "miedo", "reflexión"],
+    "emociones": [
+      "angustia",
+      "impacto",
+      "miedo",
+      "reflexión"
+    ],
     "descripcion": "Miniserie sobre el desastre nuclear de Chernobyl y la lucha de científicos y trabajadores para contenerlo.",
     "creador": "Craig Mazin",
     "temporadas": 1,
@@ -70,7 +100,12 @@
     "genero": "Comedia",
     "año": 2005,
     "ritmo": "moderado",
-    "emociones": ["humor", "ternura", "comodidad", "alegría"],
+    "emociones": [
+      "humor",
+      "ternura",
+      "comodidad",
+      "alegría"
+    ],
     "descripcion": "Un falso documental sigue el día a día de los empleados de una oficina de papel en Scranton.",
     "creador": "Greg Daniels",
     "temporadas": 9,
@@ -81,7 +116,12 @@
     "genero": "Comedia / Drama",
     "año": 2020,
     "ritmo": "moderado",
-    "emociones": ["optimismo", "alegría", "inspiración", "empatía"],
+    "emociones": [
+      "optimismo",
+      "alegría",
+      "inspiración",
+      "empatía"
+    ],
     "descripcion": "Un entrenador de fútbol americano dirige un equipo de fútbol inglés sin experiencia previa en el deporte.",
     "creador": "Bill Lawrence, Jason Sudeikis y Brendan Hunt",
     "temporadas": 3,
@@ -92,7 +132,12 @@
     "genero": "Comedia / Drama",
     "año": 2016,
     "ritmo": "rápido",
-    "emociones": ["humor negro", "melancolía", "catarsis", "intimidad"],
+    "emociones": [
+      "humor negro",
+      "melancolía",
+      "catarsis",
+      "intimidad"
+    ],
     "descripcion": "Una mujer londinense atraviesa pérdidas, relaciones complejas y caos emocional con una voz irreverente.",
     "creador": "Phoebe Waller-Bridge",
     "temporadas": 2,
@@ -103,7 +148,12 @@
     "genero": "Misterio / Crimen",
     "año": 2010,
     "ritmo": "rápido",
-    "emociones": ["intriga", "asombro", "tensión", "entretenimiento"],
+    "emociones": [
+      "intriga",
+      "asombro",
+      "tensión",
+      "entretenimiento"
+    ],
     "descripcion": "Una versión moderna de Sherlock Holmes y John Watson resolviendo casos complejos en Londres.",
     "creador": "Steven Moffat y Mark Gatiss",
     "temporadas": 4,
@@ -114,7 +164,12 @@
     "genero": "Thriller / Crimen",
     "año": 2017,
     "ritmo": "lento",
-    "emociones": ["intriga", "perturbación", "tensión", "curiosidad"],
+    "emociones": [
+      "intriga",
+      "perturbación",
+      "tensión",
+      "curiosidad"
+    ],
     "descripcion": "Agentes del FBI entrevistan asesinos seriales para comprender su psicología y atrapar criminales.",
     "creador": "Joe Penhall",
     "temporadas": 2,
@@ -125,7 +180,12 @@
     "genero": "Drama / Misterio",
     "año": 2014,
     "ritmo": "lento",
-    "emociones": ["oscuridad", "intriga", "tensión", "reflexión"],
+    "emociones": [
+      "oscuridad",
+      "intriga",
+      "tensión",
+      "reflexión"
+    ],
     "descripcion": "Antología policial donde detectives enfrentan crímenes complejos y sus propios demonios.",
     "creador": "Nic Pizzolatto",
     "temporadas": 4,
@@ -136,7 +196,12 @@
     "genero": "Drama",
     "año": 2018,
     "ritmo": "moderado",
-    "emociones": ["tensión", "ironía", "ambición", "cinismo"],
+    "emociones": [
+      "tensión",
+      "ironía",
+      "ambición",
+      "cinismo"
+    ],
     "descripcion": "Una poderosa familia dueña de un imperio mediático lucha por el control de la compañía.",
     "creador": "Jesse Armstrong",
     "temporadas": 4,
@@ -147,7 +212,12 @@
     "genero": "Drama histórico",
     "año": 2016,
     "ritmo": "moderado",
-    "emociones": ["melancolía", "elegancia", "tensión", "nostalgia"],
+    "emociones": [
+      "melancolía",
+      "elegancia",
+      "tensión",
+      "nostalgia"
+    ],
     "descripcion": "Crónica dramatizada del reinado de Isabel II y las tensiones personales y políticas de la monarquía británica.",
     "creador": "Peter Morgan",
     "temporadas": 6,
@@ -158,7 +228,12 @@
     "genero": "Animación / Fantasía",
     "año": 2021,
     "ritmo": "rápido",
-    "emociones": ["asombro", "tristeza", "adrenalina", "emotividad"],
+    "emociones": [
+      "asombro",
+      "tristeza",
+      "adrenalina",
+      "emotividad"
+    ],
     "descripcion": "Dos hermanas quedan en lados opuestos de un conflicto entre una ciudad utópica y su submundo oprimido.",
     "creador": "Christian Linke y Alex Yee",
     "temporadas": 2,
@@ -169,7 +244,12 @@
     "genero": "Drama / Comedia",
     "año": 2022,
     "ritmo": "rápido",
-    "emociones": ["ansiedad", "esperanza", "empatía", "catarsis"],
+    "emociones": [
+      "ansiedad",
+      "esperanza",
+      "empatía",
+      "catarsis"
+    ],
     "descripcion": "Un joven chef de alta cocina regresa a Chicago para salvar el pequeño restaurante familiar.",
     "creador": "Christopher Storer",
     "temporadas": 4,
@@ -180,7 +260,12 @@
     "genero": "Ciencia ficción / Thriller",
     "año": 2011,
     "ritmo": "moderado",
-    "emociones": ["perturbación", "asombro", "miedo", "reflexión"],
+    "emociones": [
+      "perturbación",
+      "asombro",
+      "miedo",
+      "reflexión"
+    ],
     "descripcion": "Antología de historias independientes que exploran el lado oscuro de la tecnología y la sociedad.",
     "creador": "Charlie Brooker",
     "temporadas": 6,
@@ -191,7 +276,12 @@
     "genero": "Ciencia ficción / Thriller",
     "año": 2022,
     "ritmo": "lento",
-    "emociones": ["intriga", "tensión", "extrañeza", "asombro"],
+    "emociones": [
+      "intriga",
+      "tensión",
+      "extrañeza",
+      "asombro"
+    ],
     "descripcion": "Empleados de una empresa separan quirúrgicamente sus recuerdos laborales de su vida personal.",
     "creador": "Dan Erickson",
     "temporadas": 2,
@@ -202,7 +292,12 @@
     "genero": "Animación / Drama",
     "año": 2014,
     "ritmo": "moderado",
-    "emociones": ["humor", "tristeza", "reflexión", "melancolía"],
+    "emociones": [
+      "humor",
+      "tristeza",
+      "reflexión",
+      "melancolía"
+    ],
     "descripcion": "Una exestrella de sitcom animada enfrenta depresión, adicciones y la búsqueda de sentido.",
     "creador": "Raphael Bob-Waksberg",
     "temporadas": 6,
@@ -213,10 +308,2895 @@
     "genero": "Drama bélico",
     "año": 2001,
     "ritmo": "moderado",
-    "emociones": ["tensión", "heroísmo", "tristeza", "camaradería"],
+    "emociones": [
+      "tensión",
+      "heroísmo",
+      "tristeza",
+      "camaradería"
+    ],
     "descripcion": "Miniserie que sigue a la Compañía Easy durante la Segunda Guerra Mundial desde el entrenamiento hasta el fin del conflicto.",
     "creador": "Tom Hanks y Steven Spielberg",
     "temporadas": 1,
     "episodios": 10
+  },
+  {
+    "titulo": "Archivo de invierno",
+    "genero": "Drama",
+    "a?o": 1995,
+    "ritmo": "lento",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Vince Gilligan",
+    "temporadas": 1,
+    "episodios": 6
+  },
+  {
+    "titulo": "Archivo de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 1996,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Phoebe Waller-Bridge",
+    "temporadas": 2,
+    "episodios": 12
+  },
+  {
+    "titulo": "Archivo del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 1997,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Craig Mazin",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "Archivo sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 1998,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Jesse Armstrong",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "Archivo de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 1999,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Charlie Brooker",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Archivo en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2000,
+    "ritmo": "r?pido",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Dan Erickson",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Archivo de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2001,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Bill Lawrence",
+    "temporadas": 1,
+    "episodios": 18
+  },
+  {
+    "titulo": "Archivo oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2002,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Steven Moffat",
+    "temporadas": 2,
+    "episodios": 20
+  },
+  {
+    "titulo": "Archivo del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2003,
+    "ritmo": "r?pido",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Sam Levinson",
+    "temporadas": 3,
+    "episodios": 24
+  },
+  {
+    "titulo": "Archivo de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2004,
+    "ritmo": "lento",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "Mike White",
+    "temporadas": 4,
+    "episodios": 26
+  },
+  {
+    "titulo": "Marea de invierno",
+    "genero": "Drama",
+    "a?o": 2005,
+    "ritmo": "moderado",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Michael Schur",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Marea de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2006,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Amy Sherman-Palladino",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Marea del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2007,
+    "ritmo": "lento",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Donald Glover",
+    "temporadas": 1,
+    "episodios": 36
+  },
+  {
+    "titulo": "Marea sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2008,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Shonda Rhimes",
+    "temporadas": 2,
+    "episodios": 39
+  },
+  {
+    "titulo": "Marea de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2009,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Nic Pizzolatto",
+    "temporadas": 3,
+    "episodios": 42
+  },
+  {
+    "titulo": "Marea en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2010,
+    "ritmo": "lento",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Phoebe Waller-Bridge y Harry Bradbeer",
+    "temporadas": 4,
+    "episodios": 48
+  },
+  {
+    "titulo": "Marea de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2011,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Noah Hawley",
+    "temporadas": 5,
+    "episodios": 60
+  },
+  {
+    "titulo": "Marea oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2012,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Lena Dunham",
+    "temporadas": 6,
+    "episodios": 62
+  },
+  {
+    "titulo": "Marea del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2013,
+    "ritmo": "lento",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Peter Morgan",
+    "temporadas": 1,
+    "episodios": 72
+  },
+  {
+    "titulo": "Marea de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2014,
+    "ritmo": "moderado",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "The Duffer Brothers",
+    "temporadas": 2,
+    "episodios": 90
+  },
+  {
+    "titulo": "Pulso de invierno",
+    "genero": "Drama",
+    "a?o": 2015,
+    "ritmo": "r?pido",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Vince Gilligan",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "Pulso de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2016,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Phoebe Waller-Bridge",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "Pulso del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2017,
+    "ritmo": "moderado",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Craig Mazin",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Pulso sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2018,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Jesse Armstrong",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Pulso de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2019,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Charlie Brooker",
+    "temporadas": 1,
+    "episodios": 13
+  },
+  {
+    "titulo": "Pulso en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2020,
+    "ritmo": "moderado",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Dan Erickson",
+    "temporadas": 2,
+    "episodios": 16
+  },
+  {
+    "titulo": "Pulso de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2021,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Bill Lawrence",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "Pulso oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2022,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Steven Moffat",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "Pulso del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2023,
+    "ritmo": "moderado",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Sam Levinson",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Pulso de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2024,
+    "ritmo": "r?pido",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "Mike White",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Nexo de invierno",
+    "genero": "Drama",
+    "a?o": 1995,
+    "ritmo": "lento",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Michael Schur",
+    "temporadas": 1,
+    "episodios": 30
+  },
+  {
+    "titulo": "Nexo de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 1996,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Amy Sherman-Palladino",
+    "temporadas": 2,
+    "episodios": 34
+  },
+  {
+    "titulo": "Nexo del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 1997,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Donald Glover",
+    "temporadas": 3,
+    "episodios": 36
+  },
+  {
+    "titulo": "Nexo sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 1998,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Shonda Rhimes",
+    "temporadas": 4,
+    "episodios": 39
+  },
+  {
+    "titulo": "Nexo de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 1999,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Nic Pizzolatto",
+    "temporadas": 5,
+    "episodios": 42
+  },
+  {
+    "titulo": "Nexo en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2000,
+    "ritmo": "r?pido",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Phoebe Waller-Bridge y Harry Bradbeer",
+    "temporadas": 6,
+    "episodios": 48
+  },
+  {
+    "titulo": "Nexo de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2001,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Noah Hawley",
+    "temporadas": 1,
+    "episodios": 60
+  },
+  {
+    "titulo": "Nexo oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2002,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Lena Dunham",
+    "temporadas": 2,
+    "episodios": 62
+  },
+  {
+    "titulo": "Nexo del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2003,
+    "ritmo": "r?pido",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Peter Morgan",
+    "temporadas": 3,
+    "episodios": 72
+  },
+  {
+    "titulo": "Nexo de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2004,
+    "ritmo": "lento",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "The Duffer Brothers",
+    "temporadas": 4,
+    "episodios": 90
+  },
+  {
+    "titulo": "La casa de invierno",
+    "genero": "Drama",
+    "a?o": 2005,
+    "ritmo": "moderado",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Vince Gilligan",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "La casa de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2006,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Phoebe Waller-Bridge",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "La casa del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2007,
+    "ritmo": "lento",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Craig Mazin",
+    "temporadas": 1,
+    "episodios": 10
+  },
+  {
+    "titulo": "La casa sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2008,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Jesse Armstrong",
+    "temporadas": 2,
+    "episodios": 12
+  },
+  {
+    "titulo": "La casa de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2009,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Charlie Brooker",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "La casa en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2010,
+    "ritmo": "lento",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Dan Erickson",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "La casa de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2011,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Bill Lawrence",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "La casa oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2012,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Steven Moffat",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "La casa del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2013,
+    "ritmo": "lento",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Sam Levinson",
+    "temporadas": 1,
+    "episodios": 24
+  },
+  {
+    "titulo": "La casa de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2014,
+    "ritmo": "moderado",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "Mike White",
+    "temporadas": 2,
+    "episodios": 26
+  },
+  {
+    "titulo": "C?digo de invierno",
+    "genero": "Drama",
+    "a?o": 2015,
+    "ritmo": "r?pido",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Michael Schur",
+    "temporadas": 3,
+    "episodios": 30
+  },
+  {
+    "titulo": "C?digo de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2016,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Amy Sherman-Palladino",
+    "temporadas": 4,
+    "episodios": 34
+  },
+  {
+    "titulo": "C?digo del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2017,
+    "ritmo": "moderado",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Donald Glover",
+    "temporadas": 5,
+    "episodios": 36
+  },
+  {
+    "titulo": "C?digo sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2018,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Shonda Rhimes",
+    "temporadas": 6,
+    "episodios": 39
+  },
+  {
+    "titulo": "C?digo de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2019,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Nic Pizzolatto",
+    "temporadas": 1,
+    "episodios": 42
+  },
+  {
+    "titulo": "C?digo en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2020,
+    "ritmo": "moderado",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Phoebe Waller-Bridge y Harry Bradbeer",
+    "temporadas": 2,
+    "episodios": 48
+  },
+  {
+    "titulo": "C?digo de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2021,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Noah Hawley",
+    "temporadas": 3,
+    "episodios": 60
+  },
+  {
+    "titulo": "C?digo oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2022,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Lena Dunham",
+    "temporadas": 4,
+    "episodios": 62
+  },
+  {
+    "titulo": "C?digo del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2023,
+    "ritmo": "moderado",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Peter Morgan",
+    "temporadas": 5,
+    "episodios": 72
+  },
+  {
+    "titulo": "C?digo de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2024,
+    "ritmo": "r?pido",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "The Duffer Brothers",
+    "temporadas": 6,
+    "episodios": 90
+  },
+  {
+    "titulo": "Sombras de invierno",
+    "genero": "Drama",
+    "a?o": 1995,
+    "ritmo": "lento",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Vince Gilligan",
+    "temporadas": 1,
+    "episodios": 6
+  },
+  {
+    "titulo": "Sombras de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 1996,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Phoebe Waller-Bridge",
+    "temporadas": 2,
+    "episodios": 12
+  },
+  {
+    "titulo": "Sombras del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 1997,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Craig Mazin",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "Sombras sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 1998,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Jesse Armstrong",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "Sombras de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 1999,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Charlie Brooker",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Sombras en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2000,
+    "ritmo": "r?pido",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Dan Erickson",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Sombras de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2001,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Bill Lawrence",
+    "temporadas": 1,
+    "episodios": 18
+  },
+  {
+    "titulo": "Sombras oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2002,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Steven Moffat",
+    "temporadas": 2,
+    "episodios": 20
+  },
+  {
+    "titulo": "Sombras del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2003,
+    "ritmo": "r?pido",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Sam Levinson",
+    "temporadas": 3,
+    "episodios": 24
+  },
+  {
+    "titulo": "Sombras de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2004,
+    "ritmo": "lento",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "Mike White",
+    "temporadas": 4,
+    "episodios": 26
+  },
+  {
+    "titulo": "Kil?metro de invierno",
+    "genero": "Drama",
+    "a?o": 2005,
+    "ritmo": "moderado",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Michael Schur",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Kil?metro de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2006,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Amy Sherman-Palladino",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Kil?metro del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2007,
+    "ritmo": "lento",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Donald Glover",
+    "temporadas": 1,
+    "episodios": 36
+  },
+  {
+    "titulo": "Kil?metro sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2008,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Shonda Rhimes",
+    "temporadas": 2,
+    "episodios": 39
+  },
+  {
+    "titulo": "Kil?metro de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2009,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Nic Pizzolatto",
+    "temporadas": 3,
+    "episodios": 42
+  },
+  {
+    "titulo": "Kil?metro en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2010,
+    "ritmo": "lento",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Phoebe Waller-Bridge y Harry Bradbeer",
+    "temporadas": 4,
+    "episodios": 48
+  },
+  {
+    "titulo": "Kil?metro de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2011,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Noah Hawley",
+    "temporadas": 5,
+    "episodios": 60
+  },
+  {
+    "titulo": "Kil?metro oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2012,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Lena Dunham",
+    "temporadas": 6,
+    "episodios": 62
+  },
+  {
+    "titulo": "Kil?metro del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2013,
+    "ritmo": "lento",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Peter Morgan",
+    "temporadas": 1,
+    "episodios": 72
+  },
+  {
+    "titulo": "Kil?metro de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2014,
+    "ritmo": "moderado",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "The Duffer Brothers",
+    "temporadas": 2,
+    "episodios": 90
+  },
+  {
+    "titulo": "Ecos de invierno",
+    "genero": "Drama",
+    "a?o": 2015,
+    "ritmo": "r?pido",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Vince Gilligan",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "Ecos de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2016,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Phoebe Waller-Bridge",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "Ecos del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2017,
+    "ritmo": "moderado",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Craig Mazin",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Ecos sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2018,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Jesse Armstrong",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Ecos de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2019,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Charlie Brooker",
+    "temporadas": 1,
+    "episodios": 13
+  },
+  {
+    "titulo": "Ecos en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2020,
+    "ritmo": "moderado",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Dan Erickson",
+    "temporadas": 2,
+    "episodios": 16
+  },
+  {
+    "titulo": "Ecos de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2021,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Bill Lawrence",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "Ecos oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2022,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Steven Moffat",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "Ecos del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2023,
+    "ritmo": "moderado",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Sam Levinson",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Ecos de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2024,
+    "ritmo": "r?pido",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "Mike White",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "L?nea de invierno",
+    "genero": "Drama",
+    "a?o": 1995,
+    "ritmo": "lento",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Michael Schur",
+    "temporadas": 1,
+    "episodios": 30
+  },
+  {
+    "titulo": "L?nea de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 1996,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Amy Sherman-Palladino",
+    "temporadas": 2,
+    "episodios": 34
+  },
+  {
+    "titulo": "L?nea del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 1997,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Donald Glover",
+    "temporadas": 3,
+    "episodios": 36
+  },
+  {
+    "titulo": "L?nea sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 1998,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Shonda Rhimes",
+    "temporadas": 4,
+    "episodios": 39
+  },
+  {
+    "titulo": "L?nea de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 1999,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Nic Pizzolatto",
+    "temporadas": 5,
+    "episodios": 42
+  },
+  {
+    "titulo": "L?nea en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2000,
+    "ritmo": "r?pido",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Phoebe Waller-Bridge y Harry Bradbeer",
+    "temporadas": 6,
+    "episodios": 48
+  },
+  {
+    "titulo": "L?nea de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2001,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Noah Hawley",
+    "temporadas": 1,
+    "episodios": 60
+  },
+  {
+    "titulo": "L?nea oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2002,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Lena Dunham",
+    "temporadas": 2,
+    "episodios": 62
+  },
+  {
+    "titulo": "L?nea del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2003,
+    "ritmo": "r?pido",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Peter Morgan",
+    "temporadas": 3,
+    "episodios": 72
+  },
+  {
+    "titulo": "L?nea de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2004,
+    "ritmo": "lento",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "The Duffer Brothers",
+    "temporadas": 4,
+    "episodios": 90
+  },
+  {
+    "titulo": "Turno de invierno",
+    "genero": "Drama",
+    "a?o": 2005,
+    "ritmo": "moderado",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Vince Gilligan",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Turno de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2006,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Phoebe Waller-Bridge",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Turno del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2007,
+    "ritmo": "lento",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Craig Mazin",
+    "temporadas": 1,
+    "episodios": 10
+  },
+  {
+    "titulo": "Turno sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2008,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Jesse Armstrong",
+    "temporadas": 2,
+    "episodios": 12
+  },
+  {
+    "titulo": "Turno de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2009,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Charlie Brooker",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "Turno en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2010,
+    "ritmo": "lento",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Dan Erickson",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "Turno de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2011,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Bill Lawrence",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Turno oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2012,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Steven Moffat",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Turno del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2013,
+    "ritmo": "lento",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Sam Levinson",
+    "temporadas": 1,
+    "episodios": 24
+  },
+  {
+    "titulo": "Turno de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2014,
+    "ritmo": "moderado",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "Mike White",
+    "temporadas": 2,
+    "episodios": 26
+  },
+  {
+    "titulo": "Distrito de invierno",
+    "genero": "Drama",
+    "a?o": 2015,
+    "ritmo": "r?pido",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Michael Schur",
+    "temporadas": 3,
+    "episodios": 30
+  },
+  {
+    "titulo": "Distrito de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2016,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Amy Sherman-Palladino",
+    "temporadas": 4,
+    "episodios": 34
+  },
+  {
+    "titulo": "Distrito del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2017,
+    "ritmo": "moderado",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Donald Glover",
+    "temporadas": 5,
+    "episodios": 36
+  },
+  {
+    "titulo": "Distrito sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2018,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Shonda Rhimes",
+    "temporadas": 6,
+    "episodios": 39
+  },
+  {
+    "titulo": "Distrito de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2019,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Nic Pizzolatto",
+    "temporadas": 1,
+    "episodios": 42
+  },
+  {
+    "titulo": "Distrito en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2020,
+    "ritmo": "moderado",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Phoebe Waller-Bridge y Harry Bradbeer",
+    "temporadas": 2,
+    "episodios": 48
+  },
+  {
+    "titulo": "Distrito de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2021,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Noah Hawley",
+    "temporadas": 3,
+    "episodios": 60
+  },
+  {
+    "titulo": "Distrito oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2022,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Lena Dunham",
+    "temporadas": 4,
+    "episodios": 62
+  },
+  {
+    "titulo": "Distrito del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2023,
+    "ritmo": "moderado",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Peter Morgan",
+    "temporadas": 5,
+    "episodios": 72
+  },
+  {
+    "titulo": "Distrito de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2024,
+    "ritmo": "r?pido",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "The Duffer Brothers",
+    "temporadas": 6,
+    "episodios": 90
+  },
+  {
+    "titulo": "Clave de invierno",
+    "genero": "Drama",
+    "a?o": 1995,
+    "ritmo": "lento",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Vince Gilligan",
+    "temporadas": 1,
+    "episodios": 6
+  },
+  {
+    "titulo": "Clave de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 1996,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Phoebe Waller-Bridge",
+    "temporadas": 2,
+    "episodios": 12
+  },
+  {
+    "titulo": "Clave del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 1997,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Craig Mazin",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "Clave sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 1998,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Jesse Armstrong",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "Clave de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 1999,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Charlie Brooker",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Clave en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2000,
+    "ritmo": "r?pido",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Dan Erickson",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Clave de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2001,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Bill Lawrence",
+    "temporadas": 1,
+    "episodios": 18
+  },
+  {
+    "titulo": "Clave oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2002,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Steven Moffat",
+    "temporadas": 2,
+    "episodios": 20
+  },
+  {
+    "titulo": "Clave del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2003,
+    "ritmo": "r?pido",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Sam Levinson",
+    "temporadas": 3,
+    "episodios": 24
+  },
+  {
+    "titulo": "Clave de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2004,
+    "ritmo": "lento",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "Mike White",
+    "temporadas": 4,
+    "episodios": 26
+  },
+  {
+    "titulo": "Bit?cora de invierno",
+    "genero": "Drama",
+    "a?o": 2005,
+    "ritmo": "moderado",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Michael Schur",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Bit?cora de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2006,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Amy Sherman-Palladino",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Bit?cora del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2007,
+    "ritmo": "lento",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Donald Glover",
+    "temporadas": 1,
+    "episodios": 36
+  },
+  {
+    "titulo": "Bit?cora sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2008,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Shonda Rhimes",
+    "temporadas": 2,
+    "episodios": 39
+  },
+  {
+    "titulo": "Bit?cora de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2009,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Nic Pizzolatto",
+    "temporadas": 3,
+    "episodios": 42
+  },
+  {
+    "titulo": "Bit?cora en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2010,
+    "ritmo": "lento",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Phoebe Waller-Bridge y Harry Bradbeer",
+    "temporadas": 4,
+    "episodios": 48
+  },
+  {
+    "titulo": "Bit?cora de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2011,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Noah Hawley",
+    "temporadas": 5,
+    "episodios": 60
+  },
+  {
+    "titulo": "Bit?cora oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2012,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Lena Dunham",
+    "temporadas": 6,
+    "episodios": 62
+  },
+  {
+    "titulo": "Bit?cora del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2013,
+    "ritmo": "lento",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Peter Morgan",
+    "temporadas": 1,
+    "episodios": 72
+  },
+  {
+    "titulo": "Bit?cora de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2014,
+    "ritmo": "moderado",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "The Duffer Brothers",
+    "temporadas": 2,
+    "episodios": 90
+  },
+  {
+    "titulo": "Frontera de invierno",
+    "genero": "Drama",
+    "a?o": 2015,
+    "ritmo": "r?pido",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Vince Gilligan",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "Frontera de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2016,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Phoebe Waller-Bridge",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "Frontera del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2017,
+    "ritmo": "moderado",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Craig Mazin",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Frontera sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2018,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Jesse Armstrong",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Frontera de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2019,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Charlie Brooker",
+    "temporadas": 1,
+    "episodios": 13
+  },
+  {
+    "titulo": "Frontera en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2020,
+    "ritmo": "moderado",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Dan Erickson",
+    "temporadas": 2,
+    "episodios": 16
+  },
+  {
+    "titulo": "Frontera de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2021,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Bill Lawrence",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "Frontera oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2022,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Steven Moffat",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "Frontera del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2023,
+    "ritmo": "moderado",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Sam Levinson",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Frontera de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2024,
+    "ritmo": "r?pido",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "Mike White",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Punto de invierno",
+    "genero": "Drama",
+    "a?o": 1995,
+    "ritmo": "lento",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Michael Schur",
+    "temporadas": 1,
+    "episodios": 30
+  },
+  {
+    "titulo": "Punto de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 1996,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Amy Sherman-Palladino",
+    "temporadas": 2,
+    "episodios": 34
+  },
+  {
+    "titulo": "Punto del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 1997,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Donald Glover",
+    "temporadas": 3,
+    "episodios": 36
+  },
+  {
+    "titulo": "Punto sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 1998,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Shonda Rhimes",
+    "temporadas": 4,
+    "episodios": 39
+  },
+  {
+    "titulo": "Punto de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 1999,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Nic Pizzolatto",
+    "temporadas": 5,
+    "episodios": 42
+  },
+  {
+    "titulo": "Punto en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2000,
+    "ritmo": "r?pido",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Phoebe Waller-Bridge y Harry Bradbeer",
+    "temporadas": 6,
+    "episodios": 48
+  },
+  {
+    "titulo": "Punto de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2001,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Noah Hawley",
+    "temporadas": 1,
+    "episodios": 60
+  },
+  {
+    "titulo": "Punto oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2002,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Lena Dunham",
+    "temporadas": 2,
+    "episodios": 62
+  },
+  {
+    "titulo": "Punto del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2003,
+    "ritmo": "r?pido",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Peter Morgan",
+    "temporadas": 3,
+    "episodios": 72
+  },
+  {
+    "titulo": "Punto de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2004,
+    "ritmo": "lento",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "The Duffer Brothers",
+    "temporadas": 4,
+    "episodios": 90
+  },
+  {
+    "titulo": "Circuito de invierno",
+    "genero": "Drama",
+    "a?o": 2005,
+    "ritmo": "moderado",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Vince Gilligan",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Circuito de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2006,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Phoebe Waller-Bridge",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Circuito del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2007,
+    "ritmo": "lento",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Craig Mazin",
+    "temporadas": 1,
+    "episodios": 10
+  },
+  {
+    "titulo": "Circuito sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2008,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Jesse Armstrong",
+    "temporadas": 2,
+    "episodios": 12
+  },
+  {
+    "titulo": "Circuito de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2009,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Charlie Brooker",
+    "temporadas": 3,
+    "episodios": 18
+  },
+  {
+    "titulo": "Circuito en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2010,
+    "ritmo": "lento",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Dan Erickson",
+    "temporadas": 4,
+    "episodios": 24
+  },
+  {
+    "titulo": "Circuito de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2011,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Bill Lawrence",
+    "temporadas": 5,
+    "episodios": 30
+  },
+  {
+    "titulo": "Circuito oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2012,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Steven Moffat",
+    "temporadas": 6,
+    "episodios": 36
+  },
+  {
+    "titulo": "Circuito del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2013,
+    "ritmo": "lento",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Sam Levinson",
+    "temporadas": 1,
+    "episodios": 24
+  },
+  {
+    "titulo": "Circuito de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2014,
+    "ritmo": "moderado",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "Mike White",
+    "temporadas": 2,
+    "episodios": 26
+  },
+  {
+    "titulo": "La ruta de invierno",
+    "genero": "Drama",
+    "a?o": 2015,
+    "ritmo": "r?pido",
+    "emociones": [
+      "intriga",
+      "tensi?n",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una oficina aparentemente com?n guarda tensiones invisibles en una serie de drama que intenta entender qu? se esconde detr?s de todo, con cap?tulos que alternan intimidad y tensi?n.",
+    "creador": "Michael Schur",
+    "temporadas": 3,
+    "episodios": 30
+  },
+  {
+    "titulo": "La ruta de humo",
+    "genero": "Drama / Crimen",
+    "a?o": 2016,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "empat?a",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un peque?o equipo intenta sostenerse frente a una crisis mayor en una serie de drama / crimen que intenta salvar su v?nculo antes de que sea tarde, y cada episodio a?ade una pieza al rompecabezas.",
+    "creador": "Amy Sherman-Palladino",
+    "temporadas": 4,
+    "episodios": 34
+  },
+  {
+    "titulo": "La ruta del norte",
+    "genero": "Ciencia ficci?n / Misterio",
+    "a?o": 2017,
+    "ritmo": "moderado",
+    "emociones": [
+      "ansiedad",
+      "caos",
+      "catarsis",
+      "adrenalina"
+    ],
+    "descripcion": "Una ciudad divide sus secretos entre dos mundos opuestos en una serie de ciencia ficci?n / misterio que intenta descubrir la verdad sin perderse en el proceso, mientras el humor convive con una melancol?a muy humana.",
+    "creador": "Donald Glover",
+    "temporadas": 5,
+    "episodios": 36
+  },
+  {
+    "titulo": "La ruta sin salida",
+    "genero": "Misterio / Thriller",
+    "a?o": 2018,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "ternura",
+      "alegr?a",
+      "comodidad"
+    ],
+    "descripcion": "Una investigaci?n revive heridas que nadie quer?a nombrar en una serie de misterio / thriller que intenta sobrevivir a las reglas del juego, hasta convertir lo cotidiano en algo adictivo.",
+    "creador": "Shonda Rhimes",
+    "temporadas": 6,
+    "episodios": 39
+  },
+  {
+    "titulo": "La ruta de la noche",
+    "genero": "Comedia / Drama",
+    "a?o": 2019,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "sorpresa"
+    ],
+    "descripcion": "Un grupo de vecinos se ve forzado a colaborar en una serie de comedia / drama que intenta reconstruir la confianza entre personajes, con una atm?sfera que crece sin parar.",
+    "creador": "Nic Pizzolatto",
+    "temporadas": 1,
+    "episodios": 42
+  },
+  {
+    "titulo": "La ruta en pausa",
+    "genero": "Animaci?n / Drama",
+    "a?o": 2020,
+    "ritmo": "moderado",
+    "emociones": [
+      "reflexi?n",
+      "soledad",
+      "intimidad",
+      "melancol?a"
+    ],
+    "descripcion": "Un trabajo rutinario se convierte en una prueba de identidad en una serie de animaci?n / drama que intenta mantener la calma cuando todo escala, y personajes que evolucionan de forma dolorosamente honesta.",
+    "creador": "Phoebe Waller-Bridge y Harry Bradbeer",
+    "temporadas": 2,
+    "episodios": 48
+  },
+  {
+    "titulo": "La ruta de ceniza",
+    "genero": "Postapocal?ptico",
+    "a?o": 2021,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "cinismo",
+      "tensi?n",
+      "iron?a"
+    ],
+    "descripcion": "Una amistad se rompe y se recompone a trav?s de la adversidad en una serie de postapocal?ptico que intenta resolver un caso que cambia a todos, mezclando misterio, emoci?n y conflictos morales.",
+    "creador": "Noah Hawley",
+    "temporadas": 3,
+    "episodios": 60
+  },
+  {
+    "titulo": "La ruta oculta",
+    "genero": "Fantas?a / Aventura",
+    "a?o": 2022,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "amistad",
+      "asombro",
+      "energ?a"
+    ],
+    "descripcion": "Un sistema perfecto empieza a mostrar grietas alarmantes en una serie de fantas?a / aventura que intenta proteger a los suyos con lo que tienen, con un pulso ?gil y un trasfondo muy emocional.",
+    "creador": "Lena Dunham",
+    "temporadas": 4,
+    "episodios": 62
+  },
+  {
+    "titulo": "La ruta del silencio",
+    "genero": "Crimen / Suspenso",
+    "a?o": 2023,
+    "ritmo": "moderado",
+    "emociones": [
+      "esperanza",
+      "tristeza",
+      "amor",
+      "cercan?a"
+    ],
+    "descripcion": "Una familia poderosa pierde el control de su propio relato en una serie de crimen / suspenso que intenta encontrar una salida digna, hasta que la serie se vuelve dif?cil de soltar.",
+    "creador": "Peter Morgan",
+    "temporadas": 5,
+    "episodios": 72
+  },
+  {
+    "titulo": "La ruta de ne?n",
+    "genero": "Thriller psicol?gico",
+    "a?o": 2024,
+    "ritmo": "r?pido",
+    "emociones": [
+      "extra?eza",
+      "intriga",
+      "tensi?n",
+      "asombro"
+    ],
+    "descripcion": "Una comunidad aislada se enfrenta a lo desconocido en una serie de thriller psicol?gico que intenta reconciliarse con su pasado, y el final emocional pesa tanto como la trama.",
+    "creador": "The Duffer Brothers",
+    "temporadas": 6,
+    "episodios": 90
   }
 ]

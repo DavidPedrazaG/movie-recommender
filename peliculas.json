@@ -4,7 +4,12 @@
     "genero": "Ciencia ficción",
     "año": 2014,
     "ritmo": "lento",
-    "emociones": ["asombro", "tristeza", "esperanza", "amor"],
+    "emociones": [
+      "asombro",
+      "tristeza",
+      "esperanza",
+      "amor"
+    ],
     "descripcion": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad, mientras la Tierra se vuelve inhabitable.",
     "director": "Christopher Nolan",
     "duracion": 169
@@ -14,7 +19,12 @@
     "genero": "Ciencia ficción / Acción",
     "año": 2010,
     "ritmo": "rápido",
-    "emociones": ["tensión", "asombro", "confusión", "intriga"],
+    "emociones": [
+      "tensión",
+      "asombro",
+      "confusión",
+      "intriga"
+    ],
     "descripcion": "Un ladrón especializado en infiltrarse en los sueños de las personas recibe la misión de implantar una idea en la mente de un objetivo.",
     "director": "Christopher Nolan",
     "duracion": 148
@@ -24,7 +34,12 @@
     "genero": "Drama / Thriller",
     "año": 2019,
     "ritmo": "moderado",
-    "emociones": ["tensión", "ironía", "sorpresa", "angustia"],
+    "emociones": [
+      "tensión",
+      "ironía",
+      "sorpresa",
+      "angustia"
+    ],
     "descripcion": "Una familia pobre se infiltra en la vida de una familia adinerada con consecuencias inesperadas y violentas.",
     "director": "Bong Joon-ho",
     "duracion": 132
@@ -34,7 +49,12 @@
     "genero": "Comedia",
     "año": 1998,
     "ritmo": "lento",
-    "emociones": ["humor", "relajación", "absurdo", "alegría"],
+    "emociones": [
+      "humor",
+      "relajación",
+      "absurdo",
+      "alegría"
+    ],
     "descripcion": "Un perezoso jugador de bolos es confundido con un millonario y se ve envuelto en una trama absurda de secuestro y extorsión.",
     "director": "Joel Coen",
     "duracion": 117
@@ -44,7 +64,12 @@
     "genero": "Animación / Comedia",
     "año": 1995,
     "ritmo": "moderado",
-    "emociones": ["alegría", "nostalgia", "amistad", "aventura"],
+    "emociones": [
+      "alegría",
+      "nostalgia",
+      "amistad",
+      "aventura"
+    ],
     "descripcion": "Los juguetes de un niño cobran vida cuando no hay humanos presentes y deben lidiar con la llegada de un nuevo juguete.",
     "director": "John Lasseter",
     "duracion": 81
@@ -54,7 +79,12 @@
     "genero": "Musical / Romance",
     "año": 2016,
     "ritmo": "moderado",
-    "emociones": ["amor", "nostalgia", "melancolía", "esperanza"],
+    "emociones": [
+      "amor",
+      "nostalgia",
+      "melancolía",
+      "esperanza"
+    ],
     "descripcion": "Un pianista de jazz y una actriz aspirante se enamoran en Los Ángeles mientras persiguen sus sueños.",
     "director": "Damien Chazelle",
     "duracion": 128
@@ -64,7 +94,12 @@
     "genero": "Acción / Ciencia ficción",
     "año": 2015,
     "ritmo": "rápido",
-    "emociones": ["adrenalina", "tensión", "euforia", "caos"],
+    "emociones": [
+      "adrenalina",
+      "tensión",
+      "euforia",
+      "caos"
+    ],
     "descripcion": "En un mundo postapocalíptico, Max Rockatansky se une a Furiosa para escapar de un señor de la guerra a través del desierto.",
     "director": "George Miller",
     "duracion": 120
@@ -74,7 +109,12 @@
     "genero": "Animación / Aventura",
     "año": 2017,
     "ritmo": "moderado",
-    "emociones": ["alegría", "tristeza", "amor familiar", "nostalgia"],
+    "emociones": [
+      "alegría",
+      "tristeza",
+      "amor familiar",
+      "nostalgia"
+    ],
     "descripcion": "Un niño mexicano viaja accidentalmente a la tierra de los muertos y debe encontrar a su tatarabuelo para regresar al mundo de los vivos.",
     "director": "Lee Unkrich",
     "duracion": 105
@@ -84,7 +124,12 @@
     "genero": "Thriller / Terror",
     "año": 1991,
     "ritmo": "moderado",
-    "emociones": ["miedo", "tensión", "intriga", "perturbación"],
+    "emociones": [
+      "miedo",
+      "tensión",
+      "intriga",
+      "perturbación"
+    ],
     "descripcion": "Una agente del FBI novata busca la ayuda del psiquiatra caníbal Hannibal Lecter para atrapar a un asesino en serie.",
     "director": "Jonathan Demme",
     "duracion": 118
@@ -94,7 +139,12 @@
     "genero": "Romance / Ciencia ficción",
     "año": 2013,
     "ritmo": "lento",
-    "emociones": ["soledad", "amor", "melancolía", "reflexión"],
+    "emociones": [
+      "soledad",
+      "amor",
+      "melancolía",
+      "reflexión"
+    ],
     "descripcion": "Un escritor solitario se enamora de una inteligencia artificial con voz femenina que evoluciona más allá de lo que él podía imaginar.",
     "director": "Spike Jonze",
     "duracion": 126
@@ -104,7 +154,12 @@
     "genero": "Terror / Thriller",
     "año": 2017,
     "ritmo": "moderado",
-    "emociones": ["miedo", "paranoia", "tensión", "perturbación"],
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "tensión",
+      "perturbación"
+    ],
     "descripcion": "Un hombre negro visita la familia blanca de su novia y descubre una perturbadora conspiración racista.",
     "director": "Jordan Peele",
     "duracion": 104
@@ -114,7 +169,12 @@
     "genero": "Drama",
     "año": 2014,
     "ritmo": "rápido",
-    "emociones": ["tensión", "ambición", "angustia", "euforia"],
+    "emociones": [
+      "tensión",
+      "ambición",
+      "angustia",
+      "euforia"
+    ],
     "descripcion": "Un joven baterista de jazz es sometido a una brutal presión por su perfeccionista instructor en una escuela de música de élite.",
     "director": "Damien Chazelle",
     "duracion": 107
@@ -124,7 +184,12 @@
     "genero": "Romance / Ciencia ficción",
     "año": 2004,
     "ritmo": "lento",
-    "emociones": ["amor", "tristeza", "nostalgia", "confusión"],
+    "emociones": [
+      "amor",
+      "tristeza",
+      "nostalgia",
+      "confusión"
+    ],
     "descripcion": "Una pareja decide borrar sus recuerdos del otro tras una ruptura, pero durante el proceso se dan cuenta de que aún se aman.",
     "director": "Michel Gondry",
     "duracion": 108
@@ -134,7 +199,12 @@
     "genero": "Drama / Thriller",
     "año": 1999,
     "ritmo": "rápido",
-    "emociones": ["adrenalina", "nihilismo", "sorpresa", "perturbación"],
+    "emociones": [
+      "adrenalina",
+      "nihilismo",
+      "sorpresa",
+      "perturbación"
+    ],
     "descripcion": "Un insomne oficinista forma un club de peleas clandestino con un carismático vendedor de jabón, lo que deriva en algo mucho más oscuro.",
     "director": "David Fincher",
     "duracion": 139
@@ -144,7 +214,12 @@
     "genero": "Drama / Comedia",
     "año": 1994,
     "ritmo": "moderado",
-    "emociones": ["nostalgia", "alegría", "tristeza", "inspiración"],
+    "emociones": [
+      "nostalgia",
+      "alegría",
+      "tristeza",
+      "inspiración"
+    ],
     "descripcion": "La vida extraordinaria de un hombre de Alabama con baja inteligencia que sin querer fue testigo y participante de eventos históricos clave del siglo XX.",
     "director": "Robert Zemeckis",
     "duracion": 142
@@ -154,7 +229,12 @@
     "genero": "Ciencia ficción / Terror",
     "año": 2018,
     "ritmo": "lento",
-    "emociones": ["perturbación", "asombro", "miedo", "reflexión"],
+    "emociones": [
+      "perturbación",
+      "asombro",
+      "miedo",
+      "reflexión"
+    ],
     "descripcion": "Una bióloga entra a una zona misteriosa llamada 'La Brecha' donde las leyes de la naturaleza no aplican, buscando a su marido desaparecido.",
     "director": "Alex Garland",
     "duracion": 115
@@ -164,7 +244,12 @@
     "genero": "Misterio / Comedia",
     "año": 2019,
     "ritmo": "moderado",
-    "emociones": ["intriga", "humor", "sorpresa", "entretenimiento"],
+    "emociones": [
+      "intriga",
+      "humor",
+      "sorpresa",
+      "entretenimiento"
+    ],
     "descripcion": "Un famoso detective investiga la muerte de un patriarca de una familia adinerada rodeado de sospechosos con motivos para matarlo.",
     "director": "Rian Johnson",
     "duracion": 130
@@ -174,7 +259,12 @@
     "genero": "Drama histórico / Biográfico",
     "año": 2023,
     "ritmo": "moderado",
-    "emociones": ["asombro", "angustia", "culpa", "tensión"],
+    "emociones": [
+      "asombro",
+      "angustia",
+      "culpa",
+      "tensión"
+    ],
     "descripcion": "La historia del físico J. Robert Oppenheimer y su papel en el desarrollo de la bomba atómica durante la Segunda Guerra Mundial.",
     "director": "Christopher Nolan",
     "duracion": 180
@@ -184,7 +274,12 @@
     "genero": "Ciencia ficción / Épica",
     "año": 2021,
     "ritmo": "lento",
-    "emociones": ["asombro", "tensión", "melancolía", "grandiosidad"],
+    "emociones": [
+      "asombro",
+      "tensión",
+      "melancolía",
+      "grandiosidad"
+    ],
     "descripcion": "El hijo de una familia noble acepta viajar a un planeta desértico y peligroso para proteger al pueblo y los recursos más valiosos del universo.",
     "director": "Denis Villeneuve",
     "duracion": 155
@@ -194,9 +289,2714 @@
     "genero": "Ciencia ficción / Comedia / Drama",
     "año": 2022,
     "ritmo": "rápido",
-    "emociones": ["caos", "amor familiar", "humor", "emotividad"],
+    "emociones": [
+      "caos",
+      "amor familiar",
+      "humor",
+      "emotividad"
+    ],
     "descripcion": "Una lavandera chino-americana descubre que puede acceder a habilidades de sus versiones en otros universos y debe salvar el multiverso.",
     "director": "Daniel Kwan y Daniel Scheinert",
     "duracion": 139
+  },
+  {
+    "titulo": "El eco de ne?n",
+    "genero": "Drama",
+    "a?o": 1985,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un barrio entero entra en una transformaci?n inexplicable en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "Christopher Nolan",
+    "duracion": 88
+  },
+  {
+    "titulo": "El eco del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 1986,
+    "ritmo": "moderado",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una decisi?n tard?a cambia el destino de una familia en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Denis Villeneuve",
+    "duracion": 95
+  },
+  {
+    "titulo": "El eco en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 1987,
+    "ritmo": "r?pido",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un secreto enterrado sale a la luz durante una celebraci?n en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Greta Gerwig",
+    "duracion": 102
+  },
+  {
+    "titulo": "El eco de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 1988,
+    "ritmo": "lento",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Un viaje aparentemente simple se convierte en una prueba emocional en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Ryan Coogler",
+    "duracion": 109
+  },
+  {
+    "titulo": "El eco de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 1989,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Una tecnolog?a cotidiana revela un costo inesperado en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Guillermo del Toro",
+    "duracion": 116
+  },
+  {
+    "titulo": "El eco de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 1990,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Un personaje persigue una verdad que todos intentan ocultar en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Jordan Peele",
+    "duracion": 123
+  },
+  {
+    "titulo": "El eco bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 1991,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Una relaci?n rota obliga a mirar el pasado con otros ojos en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Chlo? Zhao",
+    "duracion": 130
+  },
+  {
+    "titulo": "El eco sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 1992,
+    "ritmo": "moderado",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Una ciudad aislada empieza a comportarse de forma inquietante en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Bong Joon-ho",
+    "duracion": 137
+  },
+  {
+    "titulo": "El eco de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 1993,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Un plan improvisado desata consecuencias imposibles de controlar en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Sofia Coppola",
+    "duracion": 144
+  },
+  {
+    "titulo": "El eco de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 1994,
+    "ritmo": "lento",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una promesa antigua vuelve a perseguir a sus protagonistas en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Damien Chazelle",
+    "duracion": 151
+  },
+  {
+    "titulo": "La sombra de ne?n",
+    "genero": "Drama",
+    "a?o": 1995,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un duelo personal se mezcla con un conflicto mayor en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "David Fincher",
+    "duracion": 158
+  },
+  {
+    "titulo": "La sombra del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 1996,
+    "ritmo": "r?pido",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una alianza improbable nace en medio del caos en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Kathryn Bigelow",
+    "duracion": 165
+  },
+  {
+    "titulo": "La sombra en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 1997,
+    "ritmo": "lento",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un hallazgo extra?o altera la rutina de un grupo de amigos en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Wes Anderson",
+    "duracion": 172
+  },
+  {
+    "titulo": "La sombra de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 1998,
+    "ritmo": "moderado",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Una p?rdida abre la puerta a una red de recuerdos cruzados en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Patty Jenkins",
+    "duracion": 179
+  },
+  {
+    "titulo": "La sombra de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 1999,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Un misterio dom?stico se vuelve cada vez m?s peligroso en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Celine Song",
+    "duracion": 93
+  },
+  {
+    "titulo": "La sombra de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2000,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Una carrera contra el tiempo enfrenta a todos con sus l?mites en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Alfonso Cuar?n",
+    "duracion": 100
+  },
+  {
+    "titulo": "La sombra bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2001,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Un regreso al hogar saca a flote heridas que no cicatrizaron en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Rebecca Hall",
+    "duracion": 107
+  },
+  {
+    "titulo": "La sombra sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2002,
+    "ritmo": "r?pido",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Un mundo futuro exige sacrificios que nadie esperaba en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Nora Ephron",
+    "duracion": 114
+  },
+  {
+    "titulo": "La sombra de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2003,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Una investigaci?n revela que nada era lo que parec?a en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Pablo Larra?n",
+    "duracion": 121
+  },
+  {
+    "titulo": "La sombra de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2004,
+    "ritmo": "moderado",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una noche decisiva une humor, miedo y catarsis en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Lynne Ramsay",
+    "duracion": 128
+  },
+  {
+    "titulo": "Horizonte de ne?n",
+    "genero": "Drama",
+    "a?o": 2005,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un barrio entero entra en una transformaci?n inexplicable en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "Christopher Nolan",
+    "duracion": 135
+  },
+  {
+    "titulo": "Horizonte del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 2006,
+    "ritmo": "lento",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una decisi?n tard?a cambia el destino de una familia en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Denis Villeneuve",
+    "duracion": 142
+  },
+  {
+    "titulo": "Horizonte en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 2007,
+    "ritmo": "moderado",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un secreto enterrado sale a la luz durante una celebraci?n en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Greta Gerwig",
+    "duracion": 149
+  },
+  {
+    "titulo": "Horizonte de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 2008,
+    "ritmo": "r?pido",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Un viaje aparentemente simple se convierte en una prueba emocional en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Ryan Coogler",
+    "duracion": 156
+  },
+  {
+    "titulo": "Horizonte de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 2009,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Una tecnolog?a cotidiana revela un costo inesperado en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Guillermo del Toro",
+    "duracion": 163
+  },
+  {
+    "titulo": "Horizonte de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2010,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Un personaje persigue una verdad que todos intentan ocultar en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Jordan Peele",
+    "duracion": 170
+  },
+  {
+    "titulo": "Horizonte bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2011,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Una relaci?n rota obliga a mirar el pasado con otros ojos en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Chlo? Zhao",
+    "duracion": 177
+  },
+  {
+    "titulo": "Horizonte sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2012,
+    "ritmo": "lento",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Una ciudad aislada empieza a comportarse de forma inquietante en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Bong Joon-ho",
+    "duracion": 91
+  },
+  {
+    "titulo": "Horizonte de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2013,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Un plan improvisado desata consecuencias imposibles de controlar en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Sofia Coppola",
+    "duracion": 98
+  },
+  {
+    "titulo": "Horizonte de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2014,
+    "ritmo": "r?pido",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una promesa antigua vuelve a perseguir a sus protagonistas en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Damien Chazelle",
+    "duracion": 105
+  },
+  {
+    "titulo": "Mapa de ne?n",
+    "genero": "Drama",
+    "a?o": 2015,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un duelo personal se mezcla con un conflicto mayor en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "David Fincher",
+    "duracion": 112
+  },
+  {
+    "titulo": "Mapa del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 2016,
+    "ritmo": "moderado",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una alianza improbable nace en medio del caos en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Kathryn Bigelow",
+    "duracion": 119
+  },
+  {
+    "titulo": "Mapa en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 2017,
+    "ritmo": "r?pido",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un hallazgo extra?o altera la rutina de un grupo de amigos en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Wes Anderson",
+    "duracion": 126
+  },
+  {
+    "titulo": "Mapa de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 2018,
+    "ritmo": "lento",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Una p?rdida abre la puerta a una red de recuerdos cruzados en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Patty Jenkins",
+    "duracion": 133
+  },
+  {
+    "titulo": "Mapa de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 2019,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Un misterio dom?stico se vuelve cada vez m?s peligroso en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Celine Song",
+    "duracion": 140
+  },
+  {
+    "titulo": "Mapa de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2020,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Una carrera contra el tiempo enfrenta a todos con sus l?mites en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Alfonso Cuar?n",
+    "duracion": 147
+  },
+  {
+    "titulo": "Mapa bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2021,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Un regreso al hogar saca a flote heridas que no cicatrizaron en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Rebecca Hall",
+    "duracion": 154
+  },
+  {
+    "titulo": "Mapa sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2022,
+    "ritmo": "moderado",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Un mundo futuro exige sacrificios que nadie esperaba en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Nora Ephron",
+    "duracion": 161
+  },
+  {
+    "titulo": "Mapa de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2023,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Una investigaci?n revela que nada era lo que parec?a en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Pablo Larra?n",
+    "duracion": 168
+  },
+  {
+    "titulo": "Mapa de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2024,
+    "ritmo": "lento",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una noche decisiva une humor, miedo y catarsis en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Lynne Ramsay",
+    "duracion": 175
+  },
+  {
+    "titulo": "Pulso de ne?n",
+    "genero": "Drama",
+    "a?o": 1985,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un barrio entero entra en una transformaci?n inexplicable en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "Christopher Nolan",
+    "duracion": 89
+  },
+  {
+    "titulo": "Pulso del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 1986,
+    "ritmo": "r?pido",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una decisi?n tard?a cambia el destino de una familia en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Denis Villeneuve",
+    "duracion": 96
+  },
+  {
+    "titulo": "Pulso en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 1987,
+    "ritmo": "lento",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un secreto enterrado sale a la luz durante una celebraci?n en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Greta Gerwig",
+    "duracion": 103
+  },
+  {
+    "titulo": "Pulso de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 1988,
+    "ritmo": "moderado",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Un viaje aparentemente simple se convierte en una prueba emocional en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Ryan Coogler",
+    "duracion": 110
+  },
+  {
+    "titulo": "Pulso de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 1989,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Una tecnolog?a cotidiana revela un costo inesperado en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Guillermo del Toro",
+    "duracion": 117
+  },
+  {
+    "titulo": "Pulso de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 1990,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Un personaje persigue una verdad que todos intentan ocultar en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Jordan Peele",
+    "duracion": 124
+  },
+  {
+    "titulo": "Pulso bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 1991,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Una relaci?n rota obliga a mirar el pasado con otros ojos en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Chlo? Zhao",
+    "duracion": 131
+  },
+  {
+    "titulo": "Pulso sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 1992,
+    "ritmo": "r?pido",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Una ciudad aislada empieza a comportarse de forma inquietante en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Bong Joon-ho",
+    "duracion": 138
+  },
+  {
+    "titulo": "Pulso de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 1993,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Un plan improvisado desata consecuencias imposibles de controlar en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Sofia Coppola",
+    "duracion": 145
+  },
+  {
+    "titulo": "Pulso de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 1994,
+    "ritmo": "moderado",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una promesa antigua vuelve a perseguir a sus protagonistas en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Damien Chazelle",
+    "duracion": 152
+  },
+  {
+    "titulo": "La ?ltima se?al de ne?n",
+    "genero": "Drama",
+    "a?o": 1995,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un duelo personal se mezcla con un conflicto mayor en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "David Fincher",
+    "duracion": 159
+  },
+  {
+    "titulo": "La ?ltima se?al del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 1996,
+    "ritmo": "lento",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una alianza improbable nace en medio del caos en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Kathryn Bigelow",
+    "duracion": 166
+  },
+  {
+    "titulo": "La ?ltima se?al en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 1997,
+    "ritmo": "moderado",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un hallazgo extra?o altera la rutina de un grupo de amigos en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Wes Anderson",
+    "duracion": 173
+  },
+  {
+    "titulo": "La ?ltima se?al de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 1998,
+    "ritmo": "r?pido",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Una p?rdida abre la puerta a una red de recuerdos cruzados en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Patty Jenkins",
+    "duracion": 180
+  },
+  {
+    "titulo": "La ?ltima se?al de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 1999,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Un misterio dom?stico se vuelve cada vez m?s peligroso en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Celine Song",
+    "duracion": 94
+  },
+  {
+    "titulo": "La ?ltima se?al de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2000,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Una carrera contra el tiempo enfrenta a todos con sus l?mites en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Alfonso Cuar?n",
+    "duracion": 101
+  },
+  {
+    "titulo": "La ?ltima se?al bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2001,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Un regreso al hogar saca a flote heridas que no cicatrizaron en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Rebecca Hall",
+    "duracion": 108
+  },
+  {
+    "titulo": "La ?ltima se?al sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2002,
+    "ritmo": "lento",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Un mundo futuro exige sacrificios que nadie esperaba en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Nora Ephron",
+    "duracion": 115
+  },
+  {
+    "titulo": "La ?ltima se?al de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2003,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Una investigaci?n revela que nada era lo que parec?a en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Pablo Larra?n",
+    "duracion": 122
+  },
+  {
+    "titulo": "La ?ltima se?al de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2004,
+    "ritmo": "r?pido",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una noche decisiva une humor, miedo y catarsis en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Lynne Ramsay",
+    "duracion": 129
+  },
+  {
+    "titulo": "Noche de ne?n",
+    "genero": "Drama",
+    "a?o": 2005,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un barrio entero entra en una transformaci?n inexplicable en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "Christopher Nolan",
+    "duracion": 136
+  },
+  {
+    "titulo": "Noche del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 2006,
+    "ritmo": "moderado",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una decisi?n tard?a cambia el destino de una familia en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Denis Villeneuve",
+    "duracion": 143
+  },
+  {
+    "titulo": "Noche en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 2007,
+    "ritmo": "r?pido",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un secreto enterrado sale a la luz durante una celebraci?n en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Greta Gerwig",
+    "duracion": 150
+  },
+  {
+    "titulo": "Noche de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 2008,
+    "ritmo": "lento",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Un viaje aparentemente simple se convierte en una prueba emocional en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Ryan Coogler",
+    "duracion": 157
+  },
+  {
+    "titulo": "Noche de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 2009,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Una tecnolog?a cotidiana revela un costo inesperado en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Guillermo del Toro",
+    "duracion": 164
+  },
+  {
+    "titulo": "Noche de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2010,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Un personaje persigue una verdad que todos intentan ocultar en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Jordan Peele",
+    "duracion": 171
+  },
+  {
+    "titulo": "Noche bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2011,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Una relaci?n rota obliga a mirar el pasado con otros ojos en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Chlo? Zhao",
+    "duracion": 178
+  },
+  {
+    "titulo": "Noche sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2012,
+    "ritmo": "moderado",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Una ciudad aislada empieza a comportarse de forma inquietante en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Bong Joon-ho",
+    "duracion": 92
+  },
+  {
+    "titulo": "Noche de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2013,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Un plan improvisado desata consecuencias imposibles de controlar en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Sofia Coppola",
+    "duracion": 99
+  },
+  {
+    "titulo": "Noche de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2014,
+    "ritmo": "lento",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una promesa antigua vuelve a perseguir a sus protagonistas en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Damien Chazelle",
+    "duracion": 106
+  },
+  {
+    "titulo": "Bruma de ne?n",
+    "genero": "Drama",
+    "a?o": 2015,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un duelo personal se mezcla con un conflicto mayor en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "David Fincher",
+    "duracion": 113
+  },
+  {
+    "titulo": "Bruma del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 2016,
+    "ritmo": "r?pido",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una alianza improbable nace en medio del caos en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Kathryn Bigelow",
+    "duracion": 120
+  },
+  {
+    "titulo": "Bruma en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 2017,
+    "ritmo": "lento",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un hallazgo extra?o altera la rutina de un grupo de amigos en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Wes Anderson",
+    "duracion": 127
+  },
+  {
+    "titulo": "Bruma de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 2018,
+    "ritmo": "moderado",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Una p?rdida abre la puerta a una red de recuerdos cruzados en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Patty Jenkins",
+    "duracion": 134
+  },
+  {
+    "titulo": "Bruma de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 2019,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Un misterio dom?stico se vuelve cada vez m?s peligroso en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Celine Song",
+    "duracion": 141
+  },
+  {
+    "titulo": "Bruma de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2020,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Una carrera contra el tiempo enfrenta a todos con sus l?mites en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Alfonso Cuar?n",
+    "duracion": 148
+  },
+  {
+    "titulo": "Bruma bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2021,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Un regreso al hogar saca a flote heridas que no cicatrizaron en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Rebecca Hall",
+    "duracion": 155
+  },
+  {
+    "titulo": "Bruma sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2022,
+    "ritmo": "r?pido",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Un mundo futuro exige sacrificios que nadie esperaba en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Nora Ephron",
+    "duracion": 162
+  },
+  {
+    "titulo": "Bruma de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2023,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Una investigaci?n revela que nada era lo que parec?a en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Pablo Larra?n",
+    "duracion": 169
+  },
+  {
+    "titulo": "Bruma de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2024,
+    "ritmo": "moderado",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una noche decisiva une humor, miedo y catarsis en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Lynne Ramsay",
+    "duracion": 176
+  },
+  {
+    "titulo": "Fragmentos de ne?n",
+    "genero": "Drama",
+    "a?o": 1985,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un barrio entero entra en una transformaci?n inexplicable en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "Christopher Nolan",
+    "duracion": 90
+  },
+  {
+    "titulo": "Fragmentos del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 1986,
+    "ritmo": "lento",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una decisi?n tard?a cambia el destino de una familia en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Denis Villeneuve",
+    "duracion": 97
+  },
+  {
+    "titulo": "Fragmentos en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 1987,
+    "ritmo": "moderado",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un secreto enterrado sale a la luz durante una celebraci?n en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Greta Gerwig",
+    "duracion": 104
+  },
+  {
+    "titulo": "Fragmentos de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 1988,
+    "ritmo": "r?pido",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Un viaje aparentemente simple se convierte en una prueba emocional en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Ryan Coogler",
+    "duracion": 111
+  },
+  {
+    "titulo": "Fragmentos de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 1989,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Una tecnolog?a cotidiana revela un costo inesperado en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Guillermo del Toro",
+    "duracion": 118
+  },
+  {
+    "titulo": "Fragmentos de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 1990,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Un personaje persigue una verdad que todos intentan ocultar en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Jordan Peele",
+    "duracion": 125
+  },
+  {
+    "titulo": "Fragmentos bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 1991,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Una relaci?n rota obliga a mirar el pasado con otros ojos en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Chlo? Zhao",
+    "duracion": 132
+  },
+  {
+    "titulo": "Fragmentos sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 1992,
+    "ritmo": "lento",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Una ciudad aislada empieza a comportarse de forma inquietante en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Bong Joon-ho",
+    "duracion": 139
+  },
+  {
+    "titulo": "Fragmentos de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 1993,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Un plan improvisado desata consecuencias imposibles de controlar en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Sofia Coppola",
+    "duracion": 146
+  },
+  {
+    "titulo": "Fragmentos de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 1994,
+    "ritmo": "r?pido",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una promesa antigua vuelve a perseguir a sus protagonistas en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Damien Chazelle",
+    "duracion": 153
+  },
+  {
+    "titulo": "El faro de ne?n",
+    "genero": "Drama",
+    "a?o": 1995,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un duelo personal se mezcla con un conflicto mayor en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "David Fincher",
+    "duracion": 160
+  },
+  {
+    "titulo": "El faro del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 1996,
+    "ritmo": "moderado",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una alianza improbable nace en medio del caos en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Kathryn Bigelow",
+    "duracion": 167
+  },
+  {
+    "titulo": "El faro en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 1997,
+    "ritmo": "r?pido",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un hallazgo extra?o altera la rutina de un grupo de amigos en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Wes Anderson",
+    "duracion": 174
+  },
+  {
+    "titulo": "El faro de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 1998,
+    "ritmo": "lento",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Una p?rdida abre la puerta a una red de recuerdos cruzados en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Patty Jenkins",
+    "duracion": 88
+  },
+  {
+    "titulo": "El faro de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 1999,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Un misterio dom?stico se vuelve cada vez m?s peligroso en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Celine Song",
+    "duracion": 95
+  },
+  {
+    "titulo": "El faro de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2000,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Una carrera contra el tiempo enfrenta a todos con sus l?mites en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Alfonso Cuar?n",
+    "duracion": 102
+  },
+  {
+    "titulo": "El faro bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2001,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Un regreso al hogar saca a flote heridas que no cicatrizaron en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Rebecca Hall",
+    "duracion": 109
+  },
+  {
+    "titulo": "El faro sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2002,
+    "ritmo": "moderado",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Un mundo futuro exige sacrificios que nadie esperaba en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Nora Ephron",
+    "duracion": 116
+  },
+  {
+    "titulo": "El faro de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2003,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Una investigaci?n revela que nada era lo que parec?a en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Pablo Larra?n",
+    "duracion": 123
+  },
+  {
+    "titulo": "El faro de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2004,
+    "ritmo": "lento",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una noche decisiva une humor, miedo y catarsis en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Lynne Ramsay",
+    "duracion": 130
+  },
+  {
+    "titulo": "Archivos de ne?n",
+    "genero": "Drama",
+    "a?o": 2005,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un barrio entero entra en una transformaci?n inexplicable en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "Christopher Nolan",
+    "duracion": 137
+  },
+  {
+    "titulo": "Archivos del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 2006,
+    "ritmo": "r?pido",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una decisi?n tard?a cambia el destino de una familia en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Denis Villeneuve",
+    "duracion": 144
+  },
+  {
+    "titulo": "Archivos en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 2007,
+    "ritmo": "lento",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un secreto enterrado sale a la luz durante una celebraci?n en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Greta Gerwig",
+    "duracion": 151
+  },
+  {
+    "titulo": "Archivos de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 2008,
+    "ritmo": "moderado",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Un viaje aparentemente simple se convierte en una prueba emocional en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Ryan Coogler",
+    "duracion": 158
+  },
+  {
+    "titulo": "Archivos de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 2009,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Una tecnolog?a cotidiana revela un costo inesperado en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Guillermo del Toro",
+    "duracion": 165
+  },
+  {
+    "titulo": "Archivos de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2010,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Un personaje persigue una verdad que todos intentan ocultar en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Jordan Peele",
+    "duracion": 172
+  },
+  {
+    "titulo": "Archivos bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2011,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Una relaci?n rota obliga a mirar el pasado con otros ojos en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Chlo? Zhao",
+    "duracion": 179
+  },
+  {
+    "titulo": "Archivos sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2012,
+    "ritmo": "r?pido",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Una ciudad aislada empieza a comportarse de forma inquietante en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Bong Joon-ho",
+    "duracion": 93
+  },
+  {
+    "titulo": "Archivos de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2013,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Un plan improvisado desata consecuencias imposibles de controlar en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Sofia Coppola",
+    "duracion": 100
+  },
+  {
+    "titulo": "Archivos de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2014,
+    "ritmo": "moderado",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una promesa antigua vuelve a perseguir a sus protagonistas en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Damien Chazelle",
+    "duracion": 107
+  },
+  {
+    "titulo": "Ceniza de ne?n",
+    "genero": "Drama",
+    "a?o": 2015,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un duelo personal se mezcla con un conflicto mayor en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "David Fincher",
+    "duracion": 114
+  },
+  {
+    "titulo": "Ceniza del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 2016,
+    "ritmo": "lento",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una alianza improbable nace en medio del caos en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Kathryn Bigelow",
+    "duracion": 121
+  },
+  {
+    "titulo": "Ceniza en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 2017,
+    "ritmo": "moderado",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un hallazgo extra?o altera la rutina de un grupo de amigos en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Wes Anderson",
+    "duracion": 128
+  },
+  {
+    "titulo": "Ceniza de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 2018,
+    "ritmo": "r?pido",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Una p?rdida abre la puerta a una red de recuerdos cruzados en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Patty Jenkins",
+    "duracion": 135
+  },
+  {
+    "titulo": "Ceniza de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 2019,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Un misterio dom?stico se vuelve cada vez m?s peligroso en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Celine Song",
+    "duracion": 142
+  },
+  {
+    "titulo": "Ceniza de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2020,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Una carrera contra el tiempo enfrenta a todos con sus l?mites en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Alfonso Cuar?n",
+    "duracion": 149
+  },
+  {
+    "titulo": "Ceniza bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2021,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Un regreso al hogar saca a flote heridas que no cicatrizaron en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Rebecca Hall",
+    "duracion": 156
+  },
+  {
+    "titulo": "Ceniza sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2022,
+    "ritmo": "lento",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Un mundo futuro exige sacrificios que nadie esperaba en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Nora Ephron",
+    "duracion": 163
+  },
+  {
+    "titulo": "Ceniza de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2023,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Una investigaci?n revela que nada era lo que parec?a en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Pablo Larra?n",
+    "duracion": 170
+  },
+  {
+    "titulo": "Ceniza de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2024,
+    "ritmo": "r?pido",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una noche decisiva une humor, miedo y catarsis en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Lynne Ramsay",
+    "duracion": 177
+  },
+  {
+    "titulo": "V?rtigo de ne?n",
+    "genero": "Drama",
+    "a?o": 1985,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un barrio entero entra en una transformaci?n inexplicable en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "Christopher Nolan",
+    "duracion": 91
+  },
+  {
+    "titulo": "V?rtigo del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 1986,
+    "ritmo": "moderado",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una decisi?n tard?a cambia el destino de una familia en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Denis Villeneuve",
+    "duracion": 98
+  },
+  {
+    "titulo": "V?rtigo en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 1987,
+    "ritmo": "r?pido",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un secreto enterrado sale a la luz durante una celebraci?n en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Greta Gerwig",
+    "duracion": 105
+  },
+  {
+    "titulo": "V?rtigo de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 1988,
+    "ritmo": "lento",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Un viaje aparentemente simple se convierte en una prueba emocional en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Ryan Coogler",
+    "duracion": 112
+  },
+  {
+    "titulo": "V?rtigo de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 1989,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Una tecnolog?a cotidiana revela un costo inesperado en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Guillermo del Toro",
+    "duracion": 119
+  },
+  {
+    "titulo": "V?rtigo de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 1990,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Un personaje persigue una verdad que todos intentan ocultar en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Jordan Peele",
+    "duracion": 126
+  },
+  {
+    "titulo": "V?rtigo bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 1991,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Una relaci?n rota obliga a mirar el pasado con otros ojos en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Chlo? Zhao",
+    "duracion": 133
+  },
+  {
+    "titulo": "V?rtigo sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 1992,
+    "ritmo": "moderado",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Una ciudad aislada empieza a comportarse de forma inquietante en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Bong Joon-ho",
+    "duracion": 140
+  },
+  {
+    "titulo": "V?rtigo de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 1993,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Un plan improvisado desata consecuencias imposibles de controlar en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Sofia Coppola",
+    "duracion": 147
+  },
+  {
+    "titulo": "V?rtigo de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 1994,
+    "ritmo": "lento",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una promesa antigua vuelve a perseguir a sus protagonistas en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Damien Chazelle",
+    "duracion": 154
+  },
+  {
+    "titulo": "Luz de ne?n",
+    "genero": "Drama",
+    "a?o": 1995,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un duelo personal se mezcla con un conflicto mayor en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "David Fincher",
+    "duracion": 161
+  },
+  {
+    "titulo": "Luz del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 1996,
+    "ritmo": "r?pido",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una alianza improbable nace en medio del caos en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Kathryn Bigelow",
+    "duracion": 168
+  },
+  {
+    "titulo": "Luz en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 1997,
+    "ritmo": "lento",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un hallazgo extra?o altera la rutina de un grupo de amigos en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Wes Anderson",
+    "duracion": 175
+  },
+  {
+    "titulo": "Luz de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 1998,
+    "ritmo": "moderado",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Una p?rdida abre la puerta a una red de recuerdos cruzados en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Patty Jenkins",
+    "duracion": 89
+  },
+  {
+    "titulo": "Luz de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 1999,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Un misterio dom?stico se vuelve cada vez m?s peligroso en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Celine Song",
+    "duracion": 96
+  },
+  {
+    "titulo": "Luz de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2000,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Una carrera contra el tiempo enfrenta a todos con sus l?mites en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Alfonso Cuar?n",
+    "duracion": 103
+  },
+  {
+    "titulo": "Luz bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2001,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Un regreso al hogar saca a flote heridas que no cicatrizaron en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Rebecca Hall",
+    "duracion": 110
+  },
+  {
+    "titulo": "Luz sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2002,
+    "ritmo": "r?pido",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Un mundo futuro exige sacrificios que nadie esperaba en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Nora Ephron",
+    "duracion": 117
+  },
+  {
+    "titulo": "Luz de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2003,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Una investigaci?n revela que nada era lo que parec?a en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Pablo Larra?n",
+    "duracion": 124
+  },
+  {
+    "titulo": "Luz de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2004,
+    "ritmo": "moderado",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una noche decisiva une humor, miedo y catarsis en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Lynne Ramsay",
+    "duracion": 131
+  },
+  {
+    "titulo": "Umbral de ne?n",
+    "genero": "Drama",
+    "a?o": 2005,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un barrio entero entra en una transformaci?n inexplicable en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "Christopher Nolan",
+    "duracion": 138
+  },
+  {
+    "titulo": "Umbral del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 2006,
+    "ritmo": "lento",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una decisi?n tard?a cambia el destino de una familia en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Denis Villeneuve",
+    "duracion": 145
+  },
+  {
+    "titulo": "Umbral en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 2007,
+    "ritmo": "moderado",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un secreto enterrado sale a la luz durante una celebraci?n en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Greta Gerwig",
+    "duracion": 152
+  },
+  {
+    "titulo": "Umbral de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 2008,
+    "ritmo": "r?pido",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Un viaje aparentemente simple se convierte en una prueba emocional en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Ryan Coogler",
+    "duracion": 159
+  },
+  {
+    "titulo": "Umbral de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 2009,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Una tecnolog?a cotidiana revela un costo inesperado en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Guillermo del Toro",
+    "duracion": 166
+  },
+  {
+    "titulo": "Umbral de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2010,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Un personaje persigue una verdad que todos intentan ocultar en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Jordan Peele",
+    "duracion": 173
+  },
+  {
+    "titulo": "Umbral bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2011,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Una relaci?n rota obliga a mirar el pasado con otros ojos en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Chlo? Zhao",
+    "duracion": 180
+  },
+  {
+    "titulo": "Umbral sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2012,
+    "ritmo": "lento",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Una ciudad aislada empieza a comportarse de forma inquietante en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Bong Joon-ho",
+    "duracion": 94
+  },
+  {
+    "titulo": "Umbral de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2013,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Un plan improvisado desata consecuencias imposibles de controlar en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Sofia Coppola",
+    "duracion": 101
+  },
+  {
+    "titulo": "Umbral de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2014,
+    "ritmo": "r?pido",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una promesa antigua vuelve a perseguir a sus protagonistas en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Damien Chazelle",
+    "duracion": 108
+  },
+  {
+    "titulo": "Ciudad de ne?n",
+    "genero": "Drama",
+    "a?o": 2015,
+    "ritmo": "lento",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un duelo personal se mezcla con un conflicto mayor en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "David Fincher",
+    "duracion": 115
+  },
+  {
+    "titulo": "Ciudad del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 2016,
+    "ritmo": "moderado",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una alianza improbable nace en medio del caos en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Kathryn Bigelow",
+    "duracion": 122
+  },
+  {
+    "titulo": "Ciudad en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 2017,
+    "ritmo": "r?pido",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un hallazgo extra?o altera la rutina de un grupo de amigos en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Wes Anderson",
+    "duracion": 129
+  },
+  {
+    "titulo": "Ciudad de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 2018,
+    "ritmo": "lento",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Una p?rdida abre la puerta a una red de recuerdos cruzados en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Patty Jenkins",
+    "duracion": 136
+  },
+  {
+    "titulo": "Ciudad de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 2019,
+    "ritmo": "moderado",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Un misterio dom?stico se vuelve cada vez m?s peligroso en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Celine Song",
+    "duracion": 143
+  },
+  {
+    "titulo": "Ciudad de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2020,
+    "ritmo": "r?pido",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Una carrera contra el tiempo enfrenta a todos con sus l?mites en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Alfonso Cuar?n",
+    "duracion": 150
+  },
+  {
+    "titulo": "Ciudad bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2021,
+    "ritmo": "lento",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Un regreso al hogar saca a flote heridas que no cicatrizaron en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Rebecca Hall",
+    "duracion": 157
+  },
+  {
+    "titulo": "Ciudad sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2022,
+    "ritmo": "moderado",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Un mundo futuro exige sacrificios que nadie esperaba en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Nora Ephron",
+    "duracion": 164
+  },
+  {
+    "titulo": "Ciudad de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2023,
+    "ritmo": "r?pido",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Una investigaci?n revela que nada era lo que parec?a en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Pablo Larra?n",
+    "duracion": 171
+  },
+  {
+    "titulo": "Ciudad de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2024,
+    "ritmo": "lento",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una noche decisiva une humor, miedo y catarsis en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Lynne Ramsay",
+    "duracion": 178
+  },
+  {
+    "titulo": "Respiraci?n de ne?n",
+    "genero": "Drama",
+    "a?o": 1985,
+    "ritmo": "moderado",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un barrio entero entra en una transformaci?n inexplicable en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "Christopher Nolan",
+    "duracion": 92
+  },
+  {
+    "titulo": "Respiraci?n del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 1986,
+    "ritmo": "r?pido",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una decisi?n tard?a cambia el destino de una familia en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Denis Villeneuve",
+    "duracion": 99
+  },
+  {
+    "titulo": "Respiraci?n en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 1987,
+    "ritmo": "lento",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un secreto enterrado sale a la luz durante una celebraci?n en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Greta Gerwig",
+    "duracion": 106
+  },
+  {
+    "titulo": "Respiraci?n de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 1988,
+    "ritmo": "moderado",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Un viaje aparentemente simple se convierte en una prueba emocional en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Ryan Coogler",
+    "duracion": 113
+  },
+  {
+    "titulo": "Respiraci?n de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 1989,
+    "ritmo": "r?pido",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Una tecnolog?a cotidiana revela un costo inesperado en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Guillermo del Toro",
+    "duracion": 120
+  },
+  {
+    "titulo": "Respiraci?n de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 1990,
+    "ritmo": "lento",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Un personaje persigue una verdad que todos intentan ocultar en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Jordan Peele",
+    "duracion": 127
+  },
+  {
+    "titulo": "Respiraci?n bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 1991,
+    "ritmo": "moderado",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Una relaci?n rota obliga a mirar el pasado con otros ojos en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Chlo? Zhao",
+    "duracion": 134
+  },
+  {
+    "titulo": "Respiraci?n sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 1992,
+    "ritmo": "r?pido",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Una ciudad aislada empieza a comportarse de forma inquietante en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Bong Joon-ho",
+    "duracion": 141
+  },
+  {
+    "titulo": "Respiraci?n de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 1993,
+    "ritmo": "lento",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Un plan improvisado desata consecuencias imposibles de controlar en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Sofia Coppola",
+    "duracion": 148
+  },
+  {
+    "titulo": "Respiraci?n de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 1994,
+    "ritmo": "moderado",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una promesa antigua vuelve a perseguir a sus protagonistas en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Damien Chazelle",
+    "duracion": 155
+  },
+  {
+    "titulo": "Tr?nsito de ne?n",
+    "genero": "Drama",
+    "a?o": 1995,
+    "ritmo": "r?pido",
+    "emociones": [
+      "nostalgia",
+      "reflexi?n",
+      "melancol?a",
+      "esperanza"
+    ],
+    "descripcion": "Un duelo personal se mezcla con un conflicto mayor en una historia de drama que busca encontrar sentido en medio del desorden, pero cada avance revela una verdad m?s inc?moda.",
+    "director": "David Fincher",
+    "duracion": 162
+  },
+  {
+    "titulo": "Tr?nsito del abismo",
+    "genero": "Drama / Thriller",
+    "a?o": 1996,
+    "ritmo": "lento",
+    "emociones": [
+      "tensi?n",
+      "intriga",
+      "asombro",
+      "curiosidad"
+    ],
+    "descripcion": "Una alianza improbable nace en medio del caos en una historia de drama / thriller que busca rescatar a alguien que importa, y lo que parec?a una meta termina siendo un espejo personal.",
+    "director": "Kathryn Bigelow",
+    "duracion": 169
+  },
+  {
+    "titulo": "Tr?nsito en llamas",
+    "genero": "Thriller / Misterio",
+    "a?o": 1997,
+    "ritmo": "moderado",
+    "emociones": [
+      "adrenalina",
+      "caos",
+      "euforia",
+      "riesgo"
+    ],
+    "descripcion": "Un hallazgo extra?o altera la rutina de un grupo de amigos en una historia de thriller / misterio que busca reconstruir una vida fragmentada, mientras el entorno se vuelve tan importante como los personajes.",
+    "director": "Wes Anderson",
+    "duracion": 176
+  },
+  {
+    "titulo": "Tr?nsito de invierno",
+    "genero": "Ciencia ficci?n",
+    "a?o": 1998,
+    "ritmo": "r?pido",
+    "emociones": [
+      "amor",
+      "tristeza",
+      "ternura",
+      "empat?a"
+    ],
+    "descripcion": "Una p?rdida abre la puerta a una red de recuerdos cruzados en una historia de ciencia ficci?n que busca desentra?ar una conspiraci?n, con un tono ?ntimo que acaba explotando en tensi?n.",
+    "director": "Patty Jenkins",
+    "duracion": 90
+  },
+  {
+    "titulo": "Tr?nsito de cristal",
+    "genero": "Ciencia ficci?n / Drama",
+    "a?o": 1999,
+    "ritmo": "lento",
+    "emociones": [
+      "miedo",
+      "paranoia",
+      "perturbaci?n",
+      "tensi?n"
+    ],
+    "descripcion": "Un misterio dom?stico se vuelve cada vez m?s peligroso en una historia de ciencia ficci?n / drama que busca cumplir una promesa pendiente, en un equilibrio entre sensibilidad y peligro.",
+    "director": "Celine Song",
+    "duracion": 97
+  },
+  {
+    "titulo": "Tr?nsito de humo",
+    "genero": "Acci?n / Thriller",
+    "a?o": 2000,
+    "ritmo": "moderado",
+    "emociones": [
+      "humor",
+      "sorpresa",
+      "alegr?a",
+      "ligereza"
+    ],
+    "descripcion": "Una carrera contra el tiempo enfrenta a todos con sus l?mites en una historia de acci?n / thriller que busca sobrevivir a una realidad hostil, y la emoci?n se acumula hasta dejar una huella profunda.",
+    "director": "Alfonso Cuar?n",
+    "duracion": 104
+  },
+  {
+    "titulo": "Tr?nsito bajo la lluvia",
+    "genero": "Comedia dram?tica",
+    "a?o": 2001,
+    "ritmo": "r?pido",
+    "emociones": [
+      "ambici?n",
+      "culpa",
+      "angustia",
+      "determinaci?n"
+    ],
+    "descripcion": "Un regreso al hogar saca a flote heridas que no cicatrizaron en una historia de comedia dram?tica que busca proteger a su gente, con giros que cambian la lectura de toda la historia.",
+    "director": "Rebecca Hall",
+    "duracion": 111
+  },
+  {
+    "titulo": "Tr?nsito sin retorno",
+    "genero": "Romance / Drama",
+    "a?o": 2002,
+    "ritmo": "lento",
+    "emociones": [
+      "soledad",
+      "melancol?a",
+      "contemplaci?n",
+      "calma"
+    ],
+    "descripcion": "Un mundo futuro exige sacrificios que nadie esperaba en una historia de romance / drama que busca resolver una tensi?n familiar, mientras la atm?sfera pesa tanto como las decisiones.",
+    "director": "Nora Ephron",
+    "duracion": 118
+  },
+  {
+    "titulo": "Tr?nsito de silencio",
+    "genero": "Aventura / Fantas?a",
+    "a?o": 2003,
+    "ritmo": "moderado",
+    "emociones": [
+      "aventura",
+      "asombro",
+      "inspiraci?n",
+      "libertad"
+    ],
+    "descripcion": "Una investigaci?n revela que nada era lo que parec?a en una historia de aventura / fantas?a que busca descubrir qui?nes son de verdad, y el resultado mezcla intensidad con vulnerabilidad.",
+    "director": "Pablo Larra?n",
+    "duracion": 125
+  },
+  {
+    "titulo": "Tr?nsito de estrellas",
+    "genero": "Suspenso psicol?gico",
+    "a?o": 2004,
+    "ritmo": "r?pido",
+    "emociones": [
+      "confusi?n",
+      "extra?eza",
+      "intriga",
+      "asombro"
+    ],
+    "descripcion": "Una noche decisiva une humor, miedo y catarsis en una historia de suspenso psicol?gico que busca aceptar una p?rdida sin romperse, hasta convertir lo cotidiano en algo inolvidable.",
+    "director": "Lynne Ramsay",
+    "duracion": 132
   }
 ]
