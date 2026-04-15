@@ -13,6 +13,7 @@ import os
 import json
 import shutil
 import hashlib
+import re
 
 # ─────────────────────────────────────────────
 # CONFIGURACIÓN
@@ -156,14 +157,60 @@ def load_vectorstore():
     )
 
 
+def _es_error_cuota(exc: Exception) -> bool:
+    mensaje = str(exc).lower()
+    marcadores = [
+        "429",
+        "quota",
+        "rate limit",
+        "resource_exhausted",
+        "retry_delay",
+        "exceeded your current quota"
+    ]
+    return any(m in mensaje for m in marcadores)
+
+
+def _tokenizar(texto: str) -> list[str]:
+    return [t for t in re.findall(r"\w+", texto.lower()) if len(t) > 2]
+
+
+def _buscar_contenido_lexico(criterios: str, tipo: str = "ambas") -> list:
+    """Fallback local sin embeddings para cuando Gemini responde 429/cuota."""
+    docs = []
+    docs.extend(_cargar_catalogo(PELICULAS_PATH, "pelicula"))
+    docs.extend(_cargar_catalogo(SERIES_PATH, "serie"))
+
+    if tipo in {"pelicula", "serie"}:
+        docs = [doc for doc in docs if doc.metadata.get("tipo") == tipo]
+
+    if not docs:
+        return []
+
+    tokens = _tokenizar(criterios)
+    if not tokens:
+        return [doc.page_content for doc in docs[:3]]
+
+    def score(doc: Document) -> int:
+        contenido = doc.page_content.lower()
+        return sum(contenido.count(tok) for tok in tokens)
+
+    docs_ordenados = sorted(docs, key=score, reverse=True)
+    docs_finales = docs_ordenados[:3]
+    return [doc.page_content for doc in docs_finales]
+
+
 # ─────────────────────────────────────────────
 # 3. BUSCAR PELÍCULAS SEGÚN CRITERIOS
 # ─────────────────────────────────────────────
 def buscar_contenido(criterios: str, tipo: str = "ambas") -> list:
     """Busca en FAISS el contenido más relevante según criterios y tipo."""
-    vectorstore = load_vectorstore()
-
-    docs = vectorstore.max_marginal_relevance_search(criterios, k=12, fetch_k=24)
+    try:
+        vectorstore = load_vectorstore()
+        docs = vectorstore.max_marginal_relevance_search(criterios, k=12, fetch_k=24)
+    except Exception as exc:
+        if _es_error_cuota(exc):
+            return _buscar_contenido_lexico(criterios, tipo)
+        raise
 
     if tipo in {"pelicula", "serie"}:
         docs_filtrados = [doc for doc in docs if doc.metadata.get("tipo") == tipo]
