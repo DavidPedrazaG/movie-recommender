@@ -1,0 +1,202 @@
+[
+  {
+    "titulo": "Interestelar",
+    "genero": "Ciencia ficción",
+    "año": 2014,
+    "ritmo": "lento",
+    "emociones": ["asombro", "tristeza", "esperanza", "amor"],
+    "descripcion": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad, mientras la Tierra se vuelve inhabitable.",
+    "director": "Christopher Nolan",
+    "duracion": 169
+  },
+  {
+    "titulo": "El origen",
+    "genero": "Ciencia ficción / Acción",
+    "año": 2010,
+    "ritmo": "rápido",
+    "emociones": ["tensión", "asombro", "confusión", "intriga"],
+    "descripcion": "Un ladrón especializado en infiltrarse en los sueños de las personas recibe la misión de implantar una idea en la mente de un objetivo.",
+    "director": "Christopher Nolan",
+    "duracion": 148
+  },
+  {
+    "titulo": "Parasite",
+    "genero": "Drama / Thriller",
+    "año": 2019,
+    "ritmo": "moderado",
+    "emociones": ["tensión", "ironía", "sorpresa", "angustia"],
+    "descripcion": "Una familia pobre se infiltra en la vida de una familia adinerada con consecuencias inesperadas y violentas.",
+    "director": "Bong Joon-ho",
+    "duracion": 132
+  },
+  {
+    "titulo": "El gran Lebowski",
+    "genero": "Comedia",
+    "año": 1998,
+    "ritmo": "lento",
+    "emociones": ["humor", "relajación", "absurdo", "alegría"],
+    "descripcion": "Un perezoso jugador de bolos es confundido con un millonario y se ve envuelto en una trama absurda de secuestro y extorsión.",
+    "director": "Joel Coen",
+    "duracion": 117
+  },
+  {
+    "titulo": "Toy Story",
+    "genero": "Animación / Comedia",
+    "año": 1995,
+    "ritmo": "moderado",
+    "emociones": ["alegría", "nostalgia", "amistad", "aventura"],
+    "descripcion": "Los juguetes de un niño cobran vida cuando no hay humanos presentes y deben lidiar con la llegada de un nuevo juguete.",
+    "director": "John Lasseter",
+    "duracion": 81
+  },
+  {
+    "titulo": "La La Land",
+    "genero": "Musical / Romance",
+    "año": 2016,
+    "ritmo": "moderado",
+    "emociones": ["amor", "nostalgia", "melancolía", "esperanza"],
+    "descripcion": "Un pianista de jazz y una actriz aspirante se enamoran en Los Ángeles mientras persiguen sus sueños.",
+    "director": "Damien Chazelle",
+    "duracion": 128
+  },
+  {
+    "titulo": "Mad Max: Furia en el camino",
+    "genero": "Acción / Ciencia ficción",
+    "año": 2015,
+    "ritmo": "rápido",
+    "emociones": ["adrenalina", "tensión", "euforia", "caos"],
+    "descripcion": "En un mundo postapocalíptico, Max Rockatansky se une a Furiosa para escapar de un señor de la guerra a través del desierto.",
+    "director": "George Miller",
+    "duracion": 120
+  },
+  {
+    "titulo": "Coco",
+    "genero": "Animación / Aventura",
+    "año": 2017,
+    "ritmo": "moderado",
+    "emociones": ["alegría", "tristeza", "amor familiar", "nostalgia"],
+    "descripcion": "Un niño mexicano viaja accidentalmente a la tierra de los muertos y debe encontrar a su tatarabuelo para regresar al mundo de los vivos.",
+    "director": "Lee Unkrich",
+    "duracion": 105
+  },
+  {
+    "titulo": "El silencio de los inocentes",
+    "genero": "Thriller / Terror",
+    "año": 1991,
+    "ritmo": "moderado",
+    "emociones": ["miedo", "tensión", "intriga", "perturbación"],
+    "descripcion": "Una agente del FBI novata busca la ayuda del psiquiatra caníbal Hannibal Lecter para atrapar a un asesino en serie.",
+    "director": "Jonathan Demme",
+    "duracion": 118
+  },
+  {
+    "titulo": "Her",
+    "genero": "Romance / Ciencia ficción",
+    "año": 2013,
+    "ritmo": "lento",
+    "emociones": ["soledad", "amor", "melancolía", "reflexión"],
+    "descripcion": "Un escritor solitario se enamora de una inteligencia artificial con voz femenina que evoluciona más allá de lo que él podía imaginar.",
+    "director": "Spike Jonze",
+    "duracion": 126
+  },
+  {
+    "titulo": "Get Out",
+    "genero": "Terror / Thriller",
+    "año": 2017,
+    "ritmo": "moderado",
+    "emociones": ["miedo", "paranoia", "tensión", "perturbación"],
+    "descripcion": "Un hombre negro visita la familia blanca de su novia y descubre una perturbadora conspiración racista.",
+    "director": "Jordan Peele",
+    "duracion": 104
+  },
+  {
+    "titulo": "Whiplash",
+    "genero": "Drama",
+    "año": 2014,
+    "ritmo": "rápido",
+    "emociones": ["tensión", "ambición", "angustia", "euforia"],
+    "descripcion": "Un joven baterista de jazz es sometido a una brutal presión por su perfeccionista instructor en una escuela de música de élite.",
+    "director": "Damien Chazelle",
+    "duracion": 107
+  },
+  {
+    "titulo": "Eterno resplandor de una mente sin recuerdos",
+    "genero": "Romance / Ciencia ficción",
+    "año": 2004,
+    "ritmo": "lento",
+    "emociones": ["amor", "tristeza", "nostalgia", "confusión"],
+    "descripcion": "Una pareja decide borrar sus recuerdos del otro tras una ruptura, pero durante el proceso se dan cuenta de que aún se aman.",
+    "director": "Michel Gondry",
+    "duracion": 108
+  },
+  {
+    "titulo": "El club de la pelea",
+    "genero": "Drama / Thriller",
+    "año": 1999,
+    "ritmo": "rápido",
+    "emociones": ["adrenalina", "nihilismo", "sorpresa", "perturbación"],
+    "descripcion": "Un insomne oficinista forma un club de peleas clandestino con un carismático vendedor de jabón, lo que deriva en algo mucho más oscuro.",
+    "director": "David Fincher",
+    "duracion": 139
+  },
+  {
+    "titulo": "Forrest Gump",
+    "genero": "Drama / Comedia",
+    "año": 1994,
+    "ritmo": "moderado",
+    "emociones": ["nostalgia", "alegría", "tristeza", "inspiración"],
+    "descripcion": "La vida extraordinaria de un hombre de Alabama con baja inteligencia que sin querer fue testigo y participante de eventos históricos clave del siglo XX.",
+    "director": "Robert Zemeckis",
+    "duracion": 142
+  },
+  {
+    "titulo": "Annihilation",
+    "genero": "Ciencia ficción / Terror",
+    "año": 2018,
+    "ritmo": "lento",
+    "emociones": ["perturbación", "asombro", "miedo", "reflexión"],
+    "descripcion": "Una bióloga entra a una zona misteriosa llamada 'La Brecha' donde las leyes de la naturaleza no aplican, buscando a su marido desaparecido.",
+    "director": "Alex Garland",
+    "duracion": 115
+  },
+  {
+    "titulo": "Knives Out",
+    "genero": "Misterio / Comedia",
+    "año": 2019,
+    "ritmo": "moderado",
+    "emociones": ["intriga", "humor", "sorpresa", "entretenimiento"],
+    "descripcion": "Un famoso detective investiga la muerte de un patriarca de una familia adinerada rodeado de sospechosos con motivos para matarlo.",
+    "director": "Rian Johnson",
+    "duracion": 130
+  },
+  {
+    "titulo": "Oppenheimer",
+    "genero": "Drama histórico / Biográfico",
+    "año": 2023,
+    "ritmo": "moderado",
+    "emociones": ["asombro", "angustia", "culpa", "tensión"],
+    "descripcion": "La historia del físico J. Robert Oppenheimer y su papel en el desarrollo de la bomba atómica durante la Segunda Guerra Mundial.",
+    "director": "Christopher Nolan",
+    "duracion": 180
+  },
+  {
+    "titulo": "Dune",
+    "genero": "Ciencia ficción / Épica",
+    "año": 2021,
+    "ritmo": "lento",
+    "emociones": ["asombro", "tensión", "melancolía", "grandiosidad"],
+    "descripcion": "El hijo de una familia noble acepta viajar a un planeta desértico y peligroso para proteger al pueblo y los recursos más valiosos del universo.",
+    "director": "Denis Villeneuve",
+    "duracion": 155
+  },
+  {
+    "titulo": "Everything Everywhere All at Once",
+    "genero": "Ciencia ficción / Comedia / Drama",
+    "año": 2022,
+    "ritmo": "rápido",
+    "emociones": ["caos", "amor familiar", "humor", "emotividad"],
+    "descripcion": "Una lavandera chino-americana descubre que puede acceder a habilidades de sus versiones en otros universos y debe salvar el multiverso.",
+    "director": "Daniel Kwan y Daniel Scheinert",
+    "duracion": 139
+  }
+]

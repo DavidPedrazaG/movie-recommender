@@ -1,0 +1,7 @@
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-google-genai==2.0.8
+langchain-text-splitters==0.3.8
+faiss-cpu
+python-dotenv
+streamlit
