@@ -3,8 +3,20 @@ app.py - Interfaz Streamlit para el Recomendador de Películas y Series con IA
 Estilo del profe: igual a app.py del proyecto RAG de clase
 """
 
+import logging
+import os
+from datetime import datetime
+
 import streamlit as st
 from chain import recomendar
+
+
+logger = logging.getLogger("cinematch")
+if not logger.handlers:
+    handler = logging.StreamHandler()
+    handler.setFormatter(logging.Formatter("%(asctime)s [%(levelname)s] %(message)s"))
+    logger.addHandler(handler)
+logger.setLevel(logging.INFO)
 
 # ─────────────────────────────────────────────
 # CONFIGURACIÓN DE PÁGINA
@@ -133,6 +145,15 @@ with col_chat:
     if "mensajes" not in st.session_state:
         st.session_state.mensajes = []
 
+    if "debug_events" not in st.session_state:
+        st.session_state.debug_events = []
+
+    if "last_error" not in st.session_state:
+        st.session_state.last_error = None
+
+    if "log_counter" not in st.session_state:
+        st.session_state.log_counter = 0
+
     # Mostrar historial
     for msg in st.session_state.mensajes:
         with st.chat_message(msg["rol"]):
@@ -148,22 +169,51 @@ with col_chat:
     entrada = mood_inicial or prompt
 
     if entrada:
+        logger.info("Usuario envió prompt: %s", entrada)
+        st.session_state.debug_events = []
+
+        def emit_log(message: str) -> None:
+            st.session_state.log_counter += 1
+            entry = f"[{datetime.now().strftime('%H:%M:%S')}] {message}"
+            st.session_state.debug_events.append(entry)
+            logger.info(message)
+            live_log_panel.code("\n".join(st.session_state.debug_events[-20:]), language="text")
+
+        st.session_state.debug_events.append(f"[{datetime.now().strftime('%H:%M:%S')}] Prompt recibido: {entrada}")
+
         # Mostrar mensaje del usuario
         st.session_state.mensajes.append({"rol": "user", "contenido": entrada})
         with st.chat_message("user"):
             st.markdown(entrada)
 
         # Generar recomendación
+        hubo_error = False
         with st.chat_message("assistant"):
+            st.markdown("### Diagnóstico en tiempo real")
+            live_log_panel = st.empty()
+            live_log_panel.code("\n".join(st.session_state.debug_events[-20:]), language="text")
             with st.spinner("🎬 Buscando la mejor opción para ti..."):
                 try:
-                    recomendacion = recomendar(entrada)
+                    emit_log("Iniciando pipeline de recomendación...")
+                    recomendacion = recomendar(entrada, emit=emit_log)
                     st.markdown(recomendacion)
                     st.session_state.mensajes.append({
                         "rol": "assistant",
                         "contenido": recomendacion
                     })
+                    st.session_state.last_error = None
+                    emit_log("Recomendación generada correctamente")
                 except Exception as e:
-                    st.error(f"Error: {e}")
+                    hubo_error = True
+                    st.session_state.last_error = f"{type(e).__name__}: {e}"
+                    st.session_state.debug_events.append(f"[{datetime.now().strftime('%H:%M:%S')}] {st.session_state.last_error}")
+                    logger.exception("Error al generar recomendación")
+                    st.error("No pude generar la recomendación. Revisa la configuración o los logs.")
+                    if os.getenv("STREAMLIT_DEBUG", "0") == "1":
+                        st.exception(e)
 
-        st.rerun()
+    with st.expander("Diagnóstico", expanded=False):
+        if st.session_state.last_error:
+            st.warning(st.session_state.last_error)
+        for event in st.session_state.debug_events[-10:]:
+            st.caption(event)

@@ -6,11 +6,25 @@ Igual a como lo enseñó el profe: runnable1 | runnable2 | runnable3 | runnable4
 from dotenv import load_dotenv
 load_dotenv()
 
+import logging
 import re
 from langchain_core.runnables import RunnableLambda
 from langchain_core.prompts import PromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI
 from rag import buscar_contenido
+
+
+logger = logging.getLogger(__name__)
+
+
+def _emit(datos: dict, message: str) -> None:
+    emit = datos.get("_emit")
+    if callable(emit):
+        try:
+            emit(message)
+        except Exception:
+            logger.exception("Fallo emitiendo log hacia la UI")
+    logger.info(message)
 
 # ─────────────────────────────────────────────
 # LLM - igual al del profe
@@ -34,8 +48,14 @@ def interpretar_emocion(datos: dict) -> dict:
         input_variables=["mood"]
     )
     chain = template | llm
-    resultado = chain.invoke({"mood": datos["mood"]})
-    return {**datos, "emocion": resultado.content.strip()}
+    try:
+        _emit(datos, "Paso 1: interpretando la emoción del usuario...")
+        resultado = chain.invoke({"mood": datos["mood"]})
+        _emit(datos, f"Paso 1 completado: {resultado.content.strip()}")
+        return {**datos, "emocion": resultado.content.strip()}
+    except Exception:
+        logger.exception("Fallo en interpretar_emocion")
+        raise
 
 
 # ─────────────────────────────────────────────
@@ -61,8 +81,14 @@ def traducir_a_criterios(datos: dict) -> dict:
         input_variables=["emocion", "objetivo"]
     )
     chain = template | llm
-    resultado = chain.invoke({"emocion": datos["emocion"], "objetivo": objetivo})
-    return {**datos, "criterios": resultado.content.strip()}
+    try:
+        _emit(datos, "Paso 2: traduciendo emociones a criterios de búsqueda...")
+        resultado = chain.invoke({"emocion": datos["emocion"], "objetivo": objetivo})
+        _emit(datos, f"Paso 2 completado: {resultado.content.strip()}")
+        return {**datos, "criterios": resultado.content.strip()}
+    except Exception:
+        logger.exception("Fallo en traducir_a_criterios")
+        raise
 
 
 # ─────────────────────────────────────────────
@@ -71,8 +97,18 @@ def traducir_a_criterios(datos: dict) -> dict:
 # Salida:  {"mood": ..., "emocion": ..., "criterios": ..., "contenido": [...]}
 # ─────────────────────────────────────────────
 def buscar_en_rag(datos: dict) -> dict:
-    contenido_encontrado = buscar_contenido(datos["criterios"], datos.get("tipo", "ambas"))
-    return {**datos, "contenido": contenido_encontrado}
+    try:
+        _emit(datos, "Paso 3: buscando candidatos en FAISS...")
+        contenido_encontrado = buscar_contenido(
+            datos["criterios"],
+            datos.get("tipo", "ambas"),
+            emit=datos.get("_emit")
+        )
+        _emit(datos, f"Paso 3 completado: {len(contenido_encontrado)} elementos recuperados")
+        return {**datos, "contenido": contenido_encontrado}
+    except Exception:
+        logger.exception("Fallo en buscar_en_rag")
+        raise
 
 
 # ─────────────────────────────────────────────
@@ -105,13 +141,19 @@ def generar_recomendacion(datos: dict) -> str:
         input_variables=["mood", "emocion", "contexto", "objetivo"]
     )
     chain = template | llm
-    resultado = chain.invoke({
-        "mood": datos["mood"],
-        "emocion": datos["emocion"],
-        "contexto": contexto,
-        "objetivo": objetivo
-    })
-    return resultado.content
+    try:
+        _emit(datos, "Paso 4: generando la recomendación final...")
+        resultado = chain.invoke({
+            "mood": datos["mood"],
+            "emocion": datos["emocion"],
+            "contexto": contexto,
+            "objetivo": objetivo
+        })
+        _emit(datos, "Paso 4 completado")
+        return resultado.content
+    except Exception:
+        logger.exception("Fallo en generar_recomendacion")
+        raise
 
 
 # ─────────────────────────────────────────────
@@ -126,10 +168,19 @@ runnable4 = RunnableLambda(generar_recomendacion) # Genera recomendación
 cadena = runnable1 | runnable2 | runnable3 | runnable4
 
 
-def recomendar(mood: str) -> str:
+def recomendar(mood: str, emit=None) -> str:
     """Función principal: recibe el mood y devuelve la recomendación."""
     tipo = inferir_tipo_contenido(mood)
-    return cadena.invoke({"mood": mood, "tipo": tipo})
+    datos = {"mood": mood, "tipo": tipo, "_emit": emit}
+    _emit(datos, f"Inicio de recomendación. Tipo inferido: {tipo}")
+    try:
+        resultado = interpretar_emocion(datos)
+        resultado = traducir_a_criterios(resultado)
+        resultado = buscar_en_rag(resultado)
+        return generar_recomendacion(resultado)
+    except Exception:
+        logger.exception("Fallo en recomendar")
+        raise
 
 
 def inferir_tipo_contenido(texto: str) -> str:
