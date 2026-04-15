@@ -12,6 +12,7 @@ from langchain_core.documents import Document
 import os
 import json
 import shutil
+import hashlib
 
 # ─────────────────────────────────────────────
 # CONFIGURACIÓN
@@ -70,9 +71,16 @@ def _cargar_catalogo(path: str, tipo: str) -> list:
 def _firma_catalogo() -> dict:
     def info(path: str) -> dict:
         if not os.path.exists(path):
-            return {"exists": False, "mtime": 0, "size": 0}
-        stat = os.stat(path)
-        return {"exists": True, "mtime": stat.st_mtime, "size": stat.st_size}
+            return {"exists": False, "sha256": None, "size": 0}
+
+        with open(path, "rb") as f:
+            contenido = f.read()
+
+        return {
+            "exists": True,
+            "sha256": hashlib.sha256(contenido).hexdigest(),
+            "size": len(contenido)
+        }
 
     return {
         "version": 2,
@@ -96,12 +104,24 @@ def _indice_actualizado() -> bool:
     return meta_guardada == _firma_catalogo()
 
 
+def _indice_faiss_existe() -> bool:
+    return os.path.exists(os.path.join(FAISS_PATH, "index.faiss"))
+
+
 # ─────────────────────────────────────────────
 # 1. CREAR BASE VECTORIAL FAISS (solo una vez)
 # ─────────────────────────────────────────────
 def create_vector_db():
+    force_reindex = os.getenv("FORCE_REINDEX", "0") == "1"
+
     if _indice_actualizado():
         print("La base vectorial FAISS ya está actualizada. No se recrea.")
+        return
+
+    # En despliegues (p. ej. Streamlit Cloud) usamos el índice FAISS ya versionado
+    # para evitar re-embeddings masivos al iniciar.
+    if _indice_faiss_existe() and not force_reindex:
+        print("Índice FAISS existente detectado. Se reutiliza sin recrear.")
         return
 
     print("Creando/actualizando base vectorial FAISS...")

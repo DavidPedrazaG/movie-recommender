@@ -5,7 +5,6 @@ Estilo del profe: igual a app.py del proyecto RAG de clase
 
 import streamlit as st
 from chain import recomendar
-from rag import create_vector_db
 
 # ─────────────────────────────────────────────
 # CONFIGURACIÓN DE PÁGINA
@@ -79,17 +78,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────
-# INICIALIZACIÓN (crear FAISS si no existe)
-# ─────────────────────────────────────────────
-if "db_creada" not in st.session_state:
-    with st.spinner("Iniciando base de datos del catálogo..."):
-        create_vector_db()
-    st.session_state.db_creada = True
-
-# ─────────────────────────────────────────────
 # HEADER
 # ─────────────────────────────────────────────
-st.markdown('<h1 class="titulo-principal">🎬 CineMatch IA</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="titulo-principal">CineMatch IA</h1>', unsafe_allow_html=True)
 st.markdown('<p class="subtitulo">Dime cómo te sientes y te recomiendo la película o serie perfecta</p>', unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────
